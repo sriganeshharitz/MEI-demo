@@ -1,0 +1,542 @@
+{
+  "HOME": {
+    "TITLE": "Hello Angular 2 with ng2-translate!",
+    "SELECT": "Change language",
+    "SEARCH": "Search"
+  },
+  "NAVBAR": {
+    "ABOUT": "ABOUT",
+    "PRODUCTS": "PRODUCTS",
+    "SERVICES": "SERVICES",
+    "SPARES": "SPARES",
+    "QUALITY": "QUALITY",
+    "CUSTOMERS": "CUSTOMERS",
+    "DEALERS": "DEALERS",
+    "CONTACT": "CONTACT"
+  },
+  "ABOUT": {
+    "BUDGET": "BUDGET",
+    "MANUFACTURING_PROCESS": "MANUFACTURING PROCESS",
+    "ORGANISATION_CHART": "ORGANISATION CHART",
+    "MANAGEMENT_PROFILE": "MANAGEMENT PROFILE",
+    "COMPANY_PROFILE": "COMPANY PROFILE",
+    "VISION": "VISION",
+    "BOARD_OF_DIRECTORS": "BOARD OF DIRECTORS",
+    "WHO_WE_ARE_TITLE": "Who we are?",
+    "WHAT_WE_DO_TITLE": "What we do?",
+    "HOW_WE_DO_TITLE": "How we do?",
+    "WHAT'S_NEW_TITLE": "What's new?",
+    "WHO_WE_ARE_DESCRIPTION": "The Mysore Electrical Industries Limited is a leading public sector undertaking of the Government of Karnataka and the first among the pioneers who have brought switchgear into India.",
+    "WHAT_WE_DO_DESCRIPTION": "In the power generation and distribution scene, MEI has been making significant contribution with High Tension and Low Tension Switchgears for the past 7 decades.",
+    "HOW_WE_DO_DESCRIPTION": "MEI have established a time tested and streamlined quality Assurance procedure. The staff engaged are highly experienced and competitive in stage inspection, inwards material inspection and testing and assembly inspection and Testing.",
+    "WHAT'S_NEW_DESCRIPTION": "We have launched a new product -Compact RMU with Sulphur Hexaflouride(SF6) LBS & Vacuum Circuit Breaker with Distribution automation system (DAS)"
+  },
+  "PRODUCTS": {
+    "PCVCB": "PORCELAIN CLAD VCB (PCVCB)",
+    "MCVCBO": "METAL CLAD VCB (MCVCB) OUTDOOR",
+    "MCVCBI": "METAL CLAD VCB (MCVCB) INDOOR",
+    "VCRMU": "VERY COMPACT RMU (VCRMU)",
+    "CSSS": "COMPACT SECONDARY SUB-STATION",
+    "CRMUSF6": "COMPACT RMU WITH SF6 LBS & VCB",
+    "VR5I": "VR 5 Indoor Panel",
+    "VR5O": "VR 5 Outdoor Panel (RMU)"
+  },
+  "MEI": {
+    "ABBREVIATION": "The Mysore Electrical Industries Ltd.",
+    "MOTTO": "We are Professionals in Power Protection",
+    "WE_LIKE_TO_INTRODUCE": "WE LIKE TO INTRODUCE",
+    "M_E_I": "M E I",
+    "OFFICE": "MEI OFFICE",
+    "WHY_MEI_TITLE": "WHY MEI?",
+    "WHY_MEI_DESCRIPTION": "The company is self contained in respect of infrastructure and manufacturing facilities backed up by established Research and Development Division including Computer Circuit Breaker Analyzer, Computer Aided Design Center, Computer Aided planning well equipped testing division and a reputed Tool Room.",
+    "CERTIFICATES": "CERTIFICATES"
+  },
+  "MAKE": {
+    "HEADER": "WE MAKE THINGS WHICH YOU FEEL PROUD",
+    "TITLE": "PRODUCTS & SPARES",
+    "DESCRIPTION": "All MEI products carry the hallmark of independent certification from foreign collaborators and CPRI’s at Bhopal and Bangalore. Today, after more than 60 years later , MEI’s products span the globe; Australia, Singapore , Kenya, Kuwait, Ceylon, Burma, Bahrain, Sudan, UAE, Cyprus and many other countries.",
+    "READ_MORE": "READ MORE"
+  },
+  "COMPANY_PROFILE": {
+    "HEADER": "Company Profile",
+    "TITLE": "The Mysore Electrical Industries Limited",
+    "DESCRIPTION_BOLD": "MEI is a leading public sector undertaking of the Government of Karnataka and the first among the pioneers who have brought switchgear into India. The company was established in the year 1945, more than seven decades ago and is in the business of manufacturing high quality Switchgear, Motor Control Gears and Solid State Electronic relays and allied switchgear equipment i.e., Instrument Transformers used in switchgear and other industrial applications.",
+    "DESCRIPTION_NORMAL1": "In the year 1945 the company entered into a collaboration with the British Company M/s. J.G. Statters and Company, for the manufacture of LT Oil Circuit Breaker up to 800 Amps. In the year 1956 this agreement was extended to cover Bulk Oil Circuit Breaker up to 12kV, 350MVA and 800 Amps, 12kV oil Fuse Switches and 12kV On-Load Oil Immersed Isolators. The company entered into an agreement with M/s. Stark storm of West Germany for the manufacturing of 10Amps and 25Amps LV Air-Break AC Contactors.",
+    "DESCRIPTION_NORMAL2": "In 1955 the company negotiated an agreement with M/s Gardy, S.A., Geneva, Switzerland, for the manufacturing of their H.T and E.H.T Minimum Oil Content Circuit Breakers. The company has diversified its activities by designing and developing Solid State Relays within the Company for Power System Protection and Industrial applications.",
+    "DESCRIPTION_NORMAL3": "In the year 1986 the company entered into a collaboration with M/s. E.I.B., S.A., Belgium, for manufacturing sophisticated Vacuum Circuit Breakers up to 33kV, 40kA and up to current rating of 3000Amps. All the above products have been successfully launched in the market and MEI has retained its reputation for quality products ever since its inceptions. The company is supplying to almost all the leading Electricity Boards and undertakings and industrial users through out the country.",
+    "DESCRIPTION_NORMAL4": "The company is self contained in respect of infrastructure and manufacturing facilities backed up by established Research and Development Division including Computer Circuit Breaker Analyzer, Computer Aided Design Center, Computer Aided planning well equipped testing division and a reputed Tool Room. In the year 1992 the company’s R&D has successfully developed Porcelain Clad Vacuum Circuit Breaker of electrical rating 12kV, 25kA and 1250Amps and successfully launched this product into market.",
+    "DESCRIPTION_NORMAL5": "MEI’s Product line today, comprises a wide range of High-Voltage circuit breakers, high voltage metal clad switchgears, stator rotor starters, Direct-On-Line and an array of relays and control devices, to name a few. MEI’s strong points according to independent industry observes Wide range of contemporary electrical equipment with extensive areas of application.",
+    "DESCRIPTION_NORMAL6": "All MEI products carry the hallmark of independent certification from foreign collaborators and CPRI’s at Bhopal and Bangalore. Today, after more than 60 years later , MEI’s products span the globe; Australia, Singapore , Kenya, Kuwait, Ceylon, Burma, Bahrain, Sudan, UAE, Cyprus and many other countries."
+  },
+  "VISION": {
+    "HEADER": "Vision",
+    "DESCRIPTION_BOLD": "MEI is working towards achieving Annul Turnover Target of Rs.75 Crores by 2016-2017. Main Thrust is given on R & D activities to keep ahead of Time in Technological changes and Market requirements.",
+    "DESCRIPTION_NORMAL1":"We continue to keep our Quality Standards high by which, reputation of MEI products is well known since seven decades.",
+    "DESCRIPTION_NORMAL2":"We are widening our Vendor Base, who are all ISO Certified, This is, to be Competitive in the Market and for Timely Delivery.",
+    "DESCRIPTION_NORMAL3":"Our Quality policy is “To achieve Total customer satisfaction by continuous improvement in Product, Corrective and Preventive action on Customer complaints and regular Management Reviews”."
+  },
+  "BOARD_OF_DIRECTORS": {
+    "HEADER": "Board of Directors",
+    "MADAM_KOMALA": {
+      "NAME": "Madam Komala",
+      "QUALIFICATION": "M.Com.",
+      "DESIGNATION": "MANAGING DIRECTOR",
+      "MOBILE": "9740253345",
+      "OFFICE": "080 23370793",
+      "EMAIL": "mei1md@rediffmil.com"
+    },
+    "UDDANNA": {
+      "NAME": "Sri.S E Uddanna",
+      "DESIGNATION": "Dy.General Manager (Works)I/C",
+      "MOBILE": "9449016506",
+      "OFFICE": "080 23475065",
+      "EMAIL": "meiworksdgm@gmail.com"
+    },
+    "BALACHANDRA": {
+      "NAME": "Sri. R. Balachandra",
+      "DESIGNATION": "Dy. Gen.Manager (Material Encharge) and Manager ( Maintenance, Projects)",
+      "MOBILE": "9448375146",
+      "OFFICE": "080 23379507",
+      "EMAIL": "meimatls9@gmail.com"
+    },
+    "MALLIKARJUNA": {
+      "NAME": "Sri. C.H.Mallikarjuna",
+      "DESIGNATION": "Manager (P&IR) & Manager Commercial I/c",
+      "MOBILE": "9448376644",
+      "OFFICE": "080 23372697",
+      "EMAIL": "mallikarjunach_hr@yahoo.com"
+    },
+    "MANOHAR": {
+      "NAME": "Sri V .Manohar",
+      "DESIGNATION": "Manager(QA/TR/Testing)",
+      "MOBILE": "944847941"
+    },
+    "SHARANAPPA": {
+      "NAME": "Sri Sharanappa",
+      "DESIGNATION": "Manager (Materials)",
+      "MOBILE": "94835569859",
+      "OFFICE": "08023379506",
+      "EMAIL": "meimatls9@gmail.com"
+    },
+    "THIMMANNA": {
+      "NAME": "Sri. P.Thimmanna",
+      "DESIGNATION": "Dy.Manager (Marketing)",
+      "MOBILE": "9448374819",
+      "OFFICE": "080 23371811",
+      "EMAIL": "meimktg@rediffmail.com"
+    },
+    "SRIDHARA": {
+      "NAME": "Sri. N.S Sridhara",
+      "DESIGNATION": "Finance & Accounts (Consultant)",
+      "MOBILE": "9448073316",
+      "OFFICE": "080 23576289",
+      "EMAIL": "meicexdept@gmail.com"
+    },
+    "SRIRAMAPRASAD": {
+      "NAME": "N. Sriramaprasad",
+      "DESIGNATION": "Deputy Manager (Finance & Accounts)I/c, ERP Nodal Officer",
+      "MOBILE": "9448073316",
+      "OFFICE": "080 23576289"
+    }
+  },
+  "MANAGEMENT_PROFILE": {
+    "HEADER": "Management Profile"
+  },
+  "ORGANISATION_CHART": {
+    "HEADER": "Organisation Chart"
+  },
+  "MANUFACTURING_PROCESS": {
+    "HEADER": "Manufacturing Process",
+    "DESCRIPTION1": "The Raw Materials and bought out Items are procured directly from the manufacturers to assure genuineness of the items. All items procured are inspected and tested as per the relevant standards The various materials undergo in-house manufacturing process on various machines.",
+    "DESCRIPTION2": "In order to achieve the desired quality, all items undergo inspection at all stages of manufacturing Finally 100% Inspection / Tests are carried out before sending them to assembly lines.",
+    "DESCRIPTION3": "Fabricated parts and tanks are neatly welded and all oil tanks are of leak proof welding. Oil tanks are pressure tested to examine leakage, if any, before they are sent to assembly lines.",
+    "DESCRIPTION4": "All parts which undergo painting degreased and hot phosphates to avoid corrosion, by 7 Hot Tank treatment before it is finally painted. Even parts which undergo plating are degreased and plated",
+    "DESCRIPTION5": "Painting consists of one coat of Red Oxide Primer and 2 coats of finish paint (as per the customers requirement). Every stage of sub-assembly is subjected to strict inspection and testing Care is being taken to achieve inter-changeability.",
+    "DESCRIPTION6": "All fasteners are tightened using torque wrenches and oil leads are tightened to optimum levels. All mechanisms are inspected and tested both mechanically and electrically before effecting dispatch to ensure trouble free service in the field.",
+    "PAINTING_PROCEDURE": {
+      "HEADER": "Paining Procedure",
+      "DESCRIPTION1": "All MS items undergo pre-treatment for rust removal and phosphating in a specially created 7 tank plant. The 7 tank plant contains alkahal bath, water bath, acid bath, water bath, phosphating and passivation.",
+      "DESCRIPTION2": "The strength of the both acid and phosphating solution are periodically checked in the laboratory and depending upon the strength of the acid, advice is given to replerish / replace the acid / phosphating solution.",
+      "DESCRIPTION3": "Further all these items are coated with zinc primer red-oxide for prevention of rust and then 2 to 3 coats of finished painting is applied before dispatching the same. Stove enamel painting facility is also available.",
+      "DESCRIPTION4": "The fabricated items and castings which are filled with oil etc. will be subject to leak prevention test by conducting pressure test on the same. Also all the tanks of the Circuit Breakers are subject to pressure testing."
+    }
+  },
+  "BUDGET": {
+    "HEADER": "Budget",
+    "BUDGET_2014_15_TITLE": "BUDGET ESTIMATES FOR THE YEAR-2014-15",
+    "THE_MYSORE_ELECTRICAL_INDUSTRIES_LTD": "THE MYSORE ELECTRICAL INDUSTRIES LTD.,",
+    "M_E_I_LTD": "The M.E.I. Ltd. Bangalore-560 022.",
+    "DATE": "Date:15.03.2014",
+    "PERFORMANCE_HEAEDER": "PERFORMANCE DURING THE YEAR-2013-14.",
+    "PRODUCTION": {
+      "HEADER": "PRODUCTION",
+      "DESCRIPTION": "The Company expects to achieve a production turnover of Rs.4507.54 lakhs in terms of Sale value, against the target of Rs.5000.00 lakhs, accounting for 90 % of the target set."
+    },
+    "SALES": {
+      "HEADER": "SALES",
+      "DESCRIPTION": "The expected Sales turnover during the year is Rs.4682.84 lakhs, against the target of Rs.5000.00 lakhs, accounting for 94 % of the target set. WORKING RESULTS FOR THE YEAR 2013-14: The working results for the year 2013-14 are expected to end up with a Profit of Rs.206.40 lakhs. and the accumulated loss at the year-end would be Rs.1635.27 lakhs."
+    },
+    "FINANCIAL_POSITION": {
+      "HEADER": "FINANCIAL POSITION OF THE COMPANY",
+      "DESCRIPTION": "The working capital management and financial position of the company during the year is satisfactory and the company is regular in paying all the statutory dues."
+    },
+    "ORDER_BOOK_POSITION": {
+      "HEADER": "ORDER BOOK POSITION",
+      "DESCRIPTION": "During the year 2013-14 the company has received the orders worth Rs.4030.69lakhs and executed orders worth Rs.4682.84lakhs. The order book position as at 1 st April 2013 was Rs.1777.35lakhs and the estimated value of orders as on 1st APRIL2014 is Rs.1125.20lakhs as detailed in ANNEXURE-1. The company is putting in serious efforts to mobilize the orders required for plant load during the next financial year."
+    },
+    "TARGET": {
+      "HEADER": "PRODUCTION AND SALES TARGET FOR 2014-15",
+      "DESCRIPTION": "The Production and Sales targets for the year 2014-15 are fixed at Rs.6511.00 lakhs each respectively. The details of Production and Sales targets are indicated in ANNEXURE-2,3 & 4."
+    },
+    "MATERIAL_COST": {
+      "HEADER": "MATERIAL COST",
+      "DESCRIPTION": "The estimated Material Cost to production during the year 2013-14 works out to be around 69%. The budgeted material cost to production for the year 2014-15 is expected to be around 69%. The details of Product wise and category wise material cost are given in ANNEX.- 5 & 6."
+    },
+    "PERSONNEL_COST": {
+      "HEADER": "PERSONNEL COST",
+      "DESCRIPTION1": "The total  strength of the Employees as on 1-4-2014 is as under :-",
+      "DESCRIPTION2": "The personnel Cost for the year  2013-14 is estimated at Rs.806.05 lakhs.The total budgeted personnel cost for the year 2014-15 is expected to be at Rs.907.55 lakhs. The details of Personnel cost are given in ANNEXURE-7 & 8.",
+      "WORKMEN_KEY": " Workmen",
+      "WORKMEN_VALUE": "70",
+      "STAFF_KEY": "Staff",
+      "STAFF_VALUE": "27",
+      "SUPERINTENDENTS_KEY": "Superintendents",
+      "SUPERINTENDENTS_VALUE": "8",
+      "OFFICERS_KEY": "Officers",
+      "OFFICERS_VALUE": "17",
+      "TOTAL_PERMANENT_EMPLOYEES_KEY": "Total no of permanent employees",
+      "TOTAL_PERMANENT_EMPLOYEES_VALUE": "122",
+      "CASUAL_LABORERS_KEY": "Casual laborers",
+      "CASUAL_LABORERS_VALUE": "65",
+      "APPRENTICES/TRAINEES_VALUE": "136",
+      "APPRENTICES/TRAINEES_KEY": "Apprentices/Trainees",
+      "TOTAL_KEY": "Total number of employees",
+      "TOTAL_VALUE": "323"
+
+    },
+    "VALUE_ADDITION": {
+      "HEADER": "VALUE ADDITION",
+      "DESCRIPTION": "The value addition per employee is expected to be at Rs.4.34 lakhs per annum as against the personnel cost of Rs.2.80 lakhs per annum per employee.The details are furnished in ANNEXURE-9."
+    },
+    "PROFIT_AND_LOSS": {
+      "HEADER": "PROFIT AND LOSS ACCOUNT",
+      "DESCRIPTION": "The Gross income for the year 2014-15 is budgeted at  Rs.5250.00 lakhs against which an expenditure of Rs.4955.03 lakhs is anticipated. The working results for the year 2014-15 on the above level of turnover is expected to end up with a profit of Rs.294.97 lakhs. The detailed Profit and Loss account together with the schedule of expenses are given in ANNEXURE-12,12A and 12B. "
+    },
+    "BUDGET_BALANCE_SHEET": {
+      "HEADER": "BUDGETED BALANCE SHEET",
+      "DESCRIPTION": "The Financial  Position of the Company as per the Budgeted operations is given in the Balance Sheet vide ANNEXURE-11 and 11A."
+    },
+    "FUND_FLOW_STATEMENT": {
+      "HEADER": "FUND FLOW STATEMENT",
+      "DESCRIPTION": "The budgeted fund flow statement is furnished in ANNEXURE-13."
+    },
+    "BREAK_EVEN_SALES": {
+      "HEADER": "BREAK EVEN SALES FOR THE YEAR 2013-14",
+      "DESCRIPTION": "The break even sales for the  year 2014-15 is estimated at Rs.4251.00 lakhs.  A detailed calculation is furnished in  ANNEXURE-14."
+    }
+  },
+  "PCVCB": {
+    "HEADER": "PORCELAIN CLAD VCB (PCVCB)",
+    "TYPE_KEY": "Type:",
+    "TYPE_VALUE": "PB5/25/12",
+    "RATING_KEY": "Rating:",
+    "RATING_VALUE": "11KV,Upto 1250A,50Hz up to 25KA",
+    "INSTALLATION_KEY": "Installation:",
+    "INSTALLATION_VALUE": "Outdoor"
+  },
+  "MCVCBO": {
+    "HEADER": "METAL CLAD VCB (MCVCB)",
+    "TYPE_KEY": "Type:",
+    "TYPE_VALUE": "VB5/25/12, VB5/31.5/20",
+    "RATING_KEY": "Rating:",
+    "RATING_VALUE": "11KV,1250A, 50Hz, 20KA,",
+    "RATING_VALUE1": ": 11KV,1600A, 50Hz, 25KA,",
+    "RATING_VALUE2": ": 11KV,2000A, 50Hz, 31.5KA",
+    "INSTALLATION_KEY": "Installation:",
+    "INSTALLATION_VALUE": "Outdoor"
+  },
+  "MCVCBI": {
+    "HEADER": "METAL CLAD VCB (MCVCB))",
+    "TYPE_KEY": "Type:",
+    "TYPE_VALUE": "VB5/25/12",
+    "RATING_KEY": "Rating:",
+    "RATING_VALUE": "11KV, 800A to1600A,20/25KA,50Hz",
+    "INSTALLATION_KEY": "Installation:",
+    "INSTALLATION_VALUE": "Indoor"
+  },
+  "VCRMU": {
+    "HEADER": "VERY COMPACT RMU (VCRMU)",
+    "TYPE_KEY": "Type:",
+    "TYPE_VALUE": "VB5/20/08",
+    "TYPE_VALUE1": ": 2 I/C LBS +1 O/G VCB",
+    "TYPE_VALUE2": ": 2 I/C VCB +1 O/G VCB",
+    "RATING_KEY": "Rating:",
+    "RATING_VALUE": "11KV 800A,20KA,50Hz",
+    "INSTALLATION_KEY": "Installation:",
+    "INSTALLATION_VALUE": "Outdoor"
+  },
+  "CSSS": {
+    "HEADER": "COMPACT SECONDARY SUB-STATION",
+    "TYPE_KEY": "Type:",
+    "TYPE_VALUE": "CSS 990V",
+    "RATING_KEY": "Rating:",
+    "RATING_VALUE": "990KVA",
+    "INSTALLATION_KEY": "Installation:",
+    "INSTALLATION_VALUE": "Outdoor"
+  },
+  "CRMUSF6": {
+    "HEADER": "COMPACT RMU WITH SF6 LBS & VCB",
+    "TYPE_KEY": "Type:",
+    "TYPE_VALUE": "VCRMU VB5/20/08",
+    "RATING_KEY": "Rating:",
+    "RATING_VALUE": "Upto 800A,20KA",
+    "INSTALLATION_KEY": "Installation:",
+    "INSTALLATION_VALUE": "Outdoor"
+  },
+  "VR5I": {
+    "HEADER": "VR 5 Indoor Panel",
+    "TYPE_KEY": "Type:",
+    "TYPE_VALUE": "11KV/VR 5/20/08"
+  },
+  "VR5O": {
+    "HEADER": "VR 5 Outdoor Panel (RMU)",
+    "TYPE_KEY": "Type:",
+    "TYPE_VALUE": "11KV/VR 5/20/08"
+  },
+  "RETROFITTING": {
+    "HEADER": "RETROFITTING",
+    "TITLE": "Retrofitting",
+    "DESCRIPTION": "MEI is expert in retrofitting the other make metal & porcelain clad vacuum circuit breaker due to flexible design and long life mechanism. MEI has Retrofitted the below make.",
+    "SIEMENS": "M/s. Siemens.",
+    "CROMPTON_GREAVES": "M/s. Crompton Greaves Ltd.,",
+    "AREVA": "M/s. Areva.",
+    "STOMBERG": "M/s. Stomberg Germany.",
+    "ABB": "M/s. ABB Ltd.",
+    "VOLTAS": "M/s. Voltas Ltd.",
+    "ER": "M/s. ER.",
+    "BHEL": "M/s. BHEL.",
+    "POWER_GEAR": "M/s. Power Gear.",
+    "MEGHAWIN": "M/s. Meghawin.",
+    "VIJAYA": "M/s. Vijaya Electricals.",
+    "VICTORY": "M/s. Victory.",
+    "VENSON": "M/s. Venson."
+  },
+  "CERTIFICATES": {
+    "HEADER": "CERTIFICATES",
+    "TITLE": "Certificates",
+    "ISO": "ISO Certification",
+    "PERFORMANCE": "Certificate of Performance",
+    "DESCRIPTION1": "MEI is Known for its Quality and Rugged Design, the MEI products are well accepted in India as well as outside the country. Our products are installed in Australia, Singapore, Kenya, Kuwait, Ceylon, Burma, Bharain, Bangladesh, Sudan, UAE, Cyprus and many other countries.",
+    "DESCRIPTION2": "The customers list extends to Karnatak Energy Departments like KPTCL, ESCOM’s. Pvt parties like Five star hotels, Cement and paper mills, multistorage and Residential Complex and OEM’s like Kirloskar pneumatics, Ingersoll Rand and Voltas, Water supply boards and Agriculture Sector. The customer base has spread to all over the globe and both Urban and Rural parts of our country."
+  },
+  "SHORT_CIRCUIT_PERFORMANCE": {
+    "HEADER": "SHORT CIRCUIT PERFORMANCE",
+    "TITLE": "Short Circuit Performance"
+  },
+  "RESEARCH": {
+    "HEADER": "RESEARCH AND DEVELOPMENT",
+    "TITLE": "Research and Development",
+    "SUB_HEADER1": {
+      "HEADER": "Applied research is given emphasis in the R & D division of MEI, which has more relevance to the company. The work of the R & D is MEI may be classified broadly into the following groups.",
+      "DESCRIPTION1": "Indigenous design & development of products utilizing the available technologies & making maximum utilization of available materials within the country.",
+      "DESCRIPTION2": "Design modifications of the products made under overseas as collaboration if customer’s needs and requirements both within & outside the country.",
+      "DESCRIPTION3": "Design modifications of products in keeping with the developments of newer materials within the country and also with a view to reduce costs.",
+      "DESCRIPTION4": "Import substitution of materials & components.",
+      "DESCRIPTION5": "Peripheral work connected with products developed.",
+      "DESCRIPTION6": "Indigenous design & development of products utilizing the available technologies and making maximum utilization of available materials in the country."
+    },
+    "SUB_HEADER2": {
+      "HEADER": "Following are the products which have been designed within MEI and which are manufactured and marketed.",
+      "DESCRIPTION1": "Low voltage air break star delta starter Type MSDD/NT.",
+      "DESCRIPTION2": "Low voltage oil immersed slip ring motor starter Type OSR.",
+      "DESCRIPTION3": "Low voltage oil immersed star delta starter Type NSD.",
+      "DESCRIPTION4": "Low voltage oil immersed auto transformer starter Type ATS.",
+      "DESCRIPTION5": "Low voltage air break heavy duty amperage contactors Type MCA 9 & MCA 11.",
+      "DESCRIPTION6": "Liquid rheostat type starters / controllers Type MLS.",
+      "DESCRIPTION7": "Low voltage DC shorting switches of 17000 Amps Type MIO16.",
+      "DESCRIPTION8": "3.3KV Air break contractor Type MHCA.",
+      "DESCRIPTION9": "6.6KV / 11KV Outdoor kiosks.",
+      "DESCRIPTION10": "Flame proof starters / controllers.",
+      "DESCRIPTION11": "High current DC shorting switches for use in caustic soda plants."
+    },
+    "SUB_HEADER3": {
+      "HEADER": "The Following products have been taken up for development manufacture.",
+      "DESCRIPTION1": "11KV,20KA very compact RMU with draw out VCB’S successfully designed. The proto type shortly being customized with metering facility.",
+      "DESCRIPTION2": "1.11KV,20KA very compact RMU with load break switches for Ring units and VCB for TEE-OFF unit with metering facility.",
+      "DESCRIPTION3": "Automatic circuit reclosure for 11KV rural distribution network.",
+      "DESCRIPTION4": "Design and Development of 11KV,31.5 KA Vacuum Circuit Breaker.",
+      "DESCRIPTION5": "Design and Development of 33KV,750 MVA porcelain clad Vacuum Circuit Breaker.",
+      "DESCRIPTION6": "Successfully Retrofitted 11 KV VCB Panels, SF6 panels, MOCB panels of various makes like ABB,SIEMENS,CGI,BHEL,ALSTOM, KIRLOSKAR,VOLTAS,STROMERG,ECE other than MEI make MOCB and BOCB.",
+      "ENDING": "R & D in MEI is keeping abreast with the latest technological developments both within the country and abroad. Its staff is actively participating in National seminars, Lectures, etc., and they have attended a number of conferences and symposiums. They have presented papers and have activity participated in the deliberations. MEI was a member of E R A and is also a member of the Indian Standards Institution. The R & D Unit has a separate Library and contributes to a number of journals and periodicals both from within the country and overseas. It is also enlisting the assistance of the Indian Institute of Science, CPRI., etc., for the design and testing of the products."
+    }
+  },
+  "TESTING_FACILITIES": {
+    "TITLE": "Testing Facilities",
+    "HEADER": "TESTING FACILITIES",
+    "SUB_HEADER": "The Mysore Electrical Industries Limited",
+    "DESCRIPTION1": "Has the relevant testing instruments for carrying out various Quality Control functions required at different stages of manufacturing Enclosed are the details regarding Electrical Testing facilities and Mechanical Testing facilities available with us.",
+    "DESCRIPTION2": "All our Quality Control process / procedures have been streamlined and accepted by approved Inspection agents like M/s. CROWN AGENTS & M/s. S G S. Further this has been accepted by independent Government Testing agencies viz., EXPORT INSPECTION AGENCY & INDIAN STATICAL INSTITUTE. As a proof of this certificates issued by the above said authorities shall be furnished on request.",
+    "DESCRIPTION3": "All the instruments like meters etc., used for manufacturing & Q.C. process are being calibrated periodically (once in a year) by an independent testing & certification agency M/s. CPRI. & EIDC., Bangalore, Mechanical Gauges (standard) are calibrated in house."
+  },
+  "ROUTINE_TESTS": {
+    "HEADER": "ROUTINE TESTS",
+    "TITLE": "Routine Tests",
+    "TESTS_CONDUCTED": "Tests Conducted:-",
+    "SUB_HEADER1": {
+      "HEADER": "Minimum Oil Circuit Breaker : Type T 52 / 2E & GUD",
+      "STANDARDS": "Standards followed:- IS 13118, IEC 56, IEC 694 & BS 116.",
+      "DESCRIPTION1": "Power frequency voltage dry tests on the main circuits.",
+      "DESCRIPTION2": "Power frequency voltage dry tests on the control & auxiliary circuits.",
+      "DESCRIPTION3": "Measurement of resistance of the main circuit.",
+      "DESCRIPTION4": "Mechanical operation test."
+    },
+    "SUB_HEADER2": {
+      "HEADER": "Oil Fuse Switches : Type VLE, VLEA & VLX",
+      "STANDARDS": "Standards followed:- IS 9920, IEC 420, IEC 265, IEC 285 & BS 3078.",
+      "DESCRIPTION1": "Power frequency voltage dry tests on the main circuits.",
+      "DESCRIPTION2": "Power frequency voltage dry tests on the control & auxiliary circuits.",
+      "DESCRIPTION3": "Measurement of resistance of the main circuit.",
+      "DESCRIPTION4": "Mechanical operation test."
+    },
+    "SUB_HEADER3": {
+      "HEADER": "Oil Fuse Switches & Isolators : Type OD & ODA",
+      "STANDARDS": "Standards followed:- IS 9921, IEC 265, IEC 285 & BS 116.",
+      "DESCRIPTION1": "Power frequency voltage dry tests on the main circuits.",
+      "DESCRIPTION2": "Power frequency voltage dry tests on the control & auxiliary circuits.",
+      "DESCRIPTION3": "Measurement of resistance of the main circuit.",
+      "DESCRIPTION4": "Mechanical operation test."
+    },
+    "SUB_HEADER4": {
+      "HEADER": "Vacuum Circuit Breakers : Type VB5-25/12 & VR5-20/08",
+      "STANDARDS": "Standards followed:- IS 13118, IEC 56, IEC 694 & BS 116.",
+      "DESCRIPTION1": "Power frequency voltage dry tests on the main circuits.",
+      "DESCRIPTION2": "Power frequency voltage dry tests on the control & auxiliary circuits.",
+      "DESCRIPTION3": "Measurement of resistance of the main circuit.",
+      "DESCRIPTION4": "Mechanical operation test.",
+      "DESCRIPTION5": "Tests for contact speed & contact bounce."
+    },
+    "SUB_HEADER5": {
+      "HEADER": "Porcelain Clad Vacuum Circuit Breakers : Type PB5-25/12",
+      "STANDARDS": "Standards followed:- IS 13118, IEC 56, IEC 694 & BS 116.",
+      "DESCRIPTION1": "Power frequency voltage dry tests on the main circuits.",
+      "DESCRIPTION2": "Power frequency voltage dry tests on the control & auxiliary circuits.",
+      "DESCRIPTION3": "Measurement of resistance of the main circuit.",
+      "DESCRIPTION4": "Mechanical operation test.",
+      "DESCRIPTION5": "Tests for contact speed & contact bounce."
+    },
+    "SUB_HEADER6": {
+      "HEADER": "Current Transformers",
+      "STANDARDS": "Standards followed:- IS 2705, IEC 185 & BS 3938.",
+      "DESCRIPTION1": "Verification of terminal markings and polarity.",
+      "DESCRIPTION2": "High voltage power frequency tests on primary winding.",
+      "DESCRIPTION3": "High voltage power frequency tests on secondary windings.",
+      "DESCRIPTION4": "Over voltage inter-turn test.",
+      "DESCRIPTION5": "Determination of error according to the requirements of appropriate accuracy class."
+    },
+    "SUB_HEADER7": {
+      "HEADER": "Potential Transformers",
+      "STANDARDS": "Standards followed:- IS 3156, IEC 186 & BS 3941.",
+      "DESCRIPTION1": "Verification of terminal markings and polarity.",
+      "DESCRIPTION2": "High voltage power frequency tests on primary winding.",
+      "DESCRIPTION3": "High voltage power frequency tests on secondary windings.",
+      "DESCRIPTION4": "Over voltage inter-turn test.",
+      "DESCRIPTION5": "Determination of error according to the requirements of appropriate accuracy class."
+    }
+  },
+  "CONTACT": {
+    "HEADER": "Contact Us",
+    "ADDRESS_KEY": "Address",
+    "ADDRESS_VALUE": "THE MYSORE ELECTRICAL INDUSTRIES LTD., (Government of Karnataka Undertaking) P.B. No. 2221, Tumkur Road, Yeshwanthpur, Bangalore-560 022, KARNATAKA, INDIA.",
+    "ISO": "ISO 9001-2008 Certified Company.",
+    "PHONE_KEY": "Phone:",
+    "PHONE_VALUE": "+91 80 – 23376851 (6 Lines), +91 80 – 23376641 (4 Lines)",
+    "MARKETING_KEY": "Marketing:",
+    "MARKETING_VALUE": "+91 80-23370140(DGM), +91 80-23372697(HT), +91 080 23371811",
+    "SPARES_KEY": "Spares HT & LT Servicing:",
+    "SPARES_VALUE": "+91 80 23471008",
+    "FAX_KEY": "Fax",
+    "FAX_VALUE": "+91 80 23371811",
+    "EMAIL_KEY": "Email",
+    "EMAIL_VALUE": "mei1md@rediffmail.com , meimatls9@gmail.com , meimktg@rediffmail.com"
+  },
+  "ALL_DEALERS": {
+    "HEADER": "ALL DEALERS",
+    "TITLE": "All Dealers",
+    "ADDRESS": "Address:",
+    "PHONE": "Phone:",
+    "FAX": "Fax:",
+    "EMAIL": "Email:",
+    "INDIA": {
+      "TITLE": "Throughout India",
+      "COMPANY": "C&M SWITCHGEAR ENTERPRISES PVT LTD.",
+      "ADDRESS": "C&M SWITCHGEAR ENTERPRISES PVT LTD., 82/3, 1ST MAIN ROAD, OPP.RAHEJA APARTMENTS ROAD, GOVINDRAJANAGAR, BANGALORE – 560 040",
+      "PHONE": "2338219",
+      "FAX": "080-23401982",
+      "EMAIL": "cmsepl@gmail.com"
+    },
+    "KARNATAKA": {
+      "TITLE": "Karnataka",
+      "COMPANY": "CANARA ELECTRICALS & ENTERPRISES",
+      "ADDRESS": "CANARA ELECTRICALS& ENTERPRISES NO:16,(OLD NO:685),10TH ‘E’ MAIN ROAD,4TH BLOCK JAYANAGAR,BANGALORE KARNATAKA- 560 011",
+      "PHONE": "080-26592285",
+      "FAX": "0141 – 367551",
+      "EMAIL": "canara_electrical@yahoo.co.in"
+    },
+    "ANDHRA_PRADESH": {
+      "TITLE": "Andhra Pradesh",
+      "COMPANY": "JAYALAKSHMI ENTERPRISES",
+      "ADDRESS": "JAYALAKSHMI ENTERPRISES 331, 3RD FLOOR, ALKARIM TRADE CENTRE, RANIGUNJ, SECUNDERBAD – 500 003",
+      "PHONE": "040-7540249",
+      "FAX": "040-7540249",
+      "EMAIL": "tnnagaraj@yahoo.com"
+    },
+    "DELHI": {
+      "TITLE": "Delhi",
+      "COMPANY": "HI-TECH SYSTEMS PVT LTD.",
+      "ADDRESS": "HI-TECH SYSTEMS PRIVATE LIMITED NO:46,RPS,SHEIKH SARAI,PHASE-1, NEW DELHI–110017",
+      "PHONE": "564701, 624701",
+      "FAX": "011-3285848",
+      "EMAIL": "hitechsy@rediffmail.com"
+    },
+    "TAMIL_NADU": {
+      "TITLE": "Tamil Nadu & Pondichery",
+      "COMPANY": "ASIAS ELECTRICALS",
+      "ADDRESS": "ASIAS ELECTRICALS NO.6, GANDHI STREET, VANUVAMPET, MADIPAKKAM CHENNAI – 600 091",
+      "PHONE": "044 – 22600557, 22602633",
+      "FAX": "044 – 22600557",
+      "EMAIL": "asiaselec@yahoo.com"
+    },
+    "WEST_BENGAL": {
+      "TITLE": "West Bengal",
+      "COMPANY": "MOTORS & CONTROLS",
+      "ADDRESS": "MOTORS & CONTROLS No.55, EZRA STREET, KOLKATA – 700 001",
+      "PHONE": "033-22353609, 22152931",
+      "FAX": "033-22356300",
+      "EMAIL": "info@motorscontrols.com"
+    },
+    "GUJARAT": {
+      "TITLE": "Gujarat,Madhya Pradesh & Maharastra",
+      "COMPANY": "THE MARSDEN BAKUBHAI & SONS PVT LTD.",
+      "ADDRESS": "THE MARSDEN BAKUBHAI & SONS P.LTD., “DARSHAN” NEAR PARIMAL RLY.CROSSING PALDI, AHMEDABAD – 380 007",
+      "PHONE": "079-26645356,26651437",
+      "FAX": "079-26651437",
+      "EMAIL": "mbsons@icenet.net"
+    },
+    "ODISA": {
+      "TITLE": "Odisa",
+      "COMPANY": "SYSTEM HOUSE CORPORATION",
+      "ADDRESS": " SYSTEM HOUSE CORPORATION K-MANSION,BLOCK K-3,340,GOUTAM NAGAR,BHUBANESHWAR ODISHA- 751 014",
+      "PHONE": "0674-2436015,2435160",
+      "FAX": "0674-2436010",
+      "EMAIL": "systemhouseorissa@yahoo.com"
+    },
+    "GOA": {
+      "TITLE": "Goa",
+      "COMPANY": "SHIRWAIKARS ELECTRICAL ENTERPRISES",
+      "ADDRESS": "SHIRWAIKARS ELECTRICAL ENTERPRISES Dr.ATMARAM BORKAR ROAD,Near Rajdhani hotel-403 001 PANJIM-GOA",
+      "PHONE": "2224292, 2458685",
+      "FAX": "0832-2224560",
+      "EMAIL": "shirwaikr@sancharnet.in"
+    }
+  }
+}

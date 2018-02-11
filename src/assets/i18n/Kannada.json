@@ -1,0 +1,307 @@
+{
+  "HOME": {
+    "TITLE": "Hello Angular 2 with ng2-translate!",
+    "SELECT": "ಭಾಷೆ ಬದಲಾಯಿಸಿ",
+    "SEARCH": "ಹುಡುಕು"
+  },
+  "NAVBAR": {
+    "ABOUT": "ಬಗ್ಗೆ",
+    "PRODUCTS": "ಉತ್ಪನ್ನಗಳು",
+    "SERVICES": "ಸೇವೆಗಳು",
+    "SPARES": "ಸ್ಪೇರ್ಸ್",
+    "QUALITY": "ಗುಣಮಟ್ಟ",
+    "CUSTOMERS": "ಗ್ರಾಹಕರು",
+    "DEALERS": "ವಿತರಕರು",
+    "CONTACT": "ಸಂಪರ್ಕ"
+  },
+  "ABOUT": {
+    "BUDGET": "BUDGET",
+    "MANUFACTURING_PROCESS": "MANUFACTURING PROCESS",
+    "ORGANISATION_CHART": "ORGANISATION CHART",
+    "MANAGEMENT_PROFILE": "MANAGEMENT PROFILE",
+    "COMPANY_PROFILE": "ಕಂಪನಿ ಪ್ರೊಫೈಲ್",
+    "VISION": "ವಿಷನ್",
+    "BOARD_OF_DIRECTORS": "ನಿರ್ದೇಶಕರ ಮಂಡಳಿ",
+    "WHO_WE_ARE_TITLE": "ನಾವು ಯಾರು?",
+    "WHAT_WE_DO_TITLE": "ನಾವು ಏನು ಮಾಡುತ್ತಿದ್ದೇವೆ?",
+    "HOW_WE_DO_TITLE": "ನಾವು ಹೇಗೆ ಮಾಡುತ್ತೇವೆ",
+    "WHAT'S_NEW_TITLE": "ಹೊಸತೇನಿದೆ?",
+    "WHO_WE_ARE_DESCRIPTION": "ಮೈಸೂರು ಎಲೆಕ್ಟ್ರಿಕಲ್ ಇಂಡಸ್ಟ್ರೀಸ್ ಲಿಮಿಟೆಡ್ ಕರ್ನಾಟಕ ಸರ್ಕಾರದ ಪ್ರಮುಖ ಸಾರ್ವಜನಿಕ ವಲಯದ ಉದ್ಯಮವಾಗಿದೆ ಮತ್ತು ಭಾರತಕ್ಕೆ ಸ್ವಿಚ್ ಗೇರ್ ಅನ್ನು ತಂದ ಮೊದಲ ಪ್ರವರ್ತಕರು.",
+    "WHAT_WE_DO_DESCRIPTION": "ವಿದ್ಯುತ್ ಉತ್ಪಾದನೆ ಮತ್ತು ವಿತರಣಾ ದೃಶ್ಯದಲ್ಲಿ, MEI ಕಳೆದ 7 ದಶಕಗಳಿಂದ ಹೈ ಟೆನ್ಷನ್ ಮತ್ತು ಲೋ ಟೆನ್ಷನ್ ಸ್ವಿಚ್ ಗೇರುಗಳೊಂದಿಗೆ ಗಮನಾರ್ಹ ಕೊಡುಗೆ ನೀಡುತ್ತಿದೆ.",
+    "HOW_WE_DO_DESCRIPTION": "MEI ಸಮಯ ಪರೀಕ್ಷೆ ಮತ್ತು ಸುವ್ಯವಸ್ಥಿತ ಗುಣಮಟ್ಟದ ಅಶ್ಯೂರೆನ್ಸ್ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಸ್ಥಾಪಿಸಿದೆ. ತೊಡಗಿಸಿಕೊಂಡಿದ್ದ ಸಿಬ್ಬಂದಿಗಳು ವೇದಿಕೆಯ ತಪಾಸಣೆಯಲ್ಲಿ ಹೆಚ್ಚು ಅನುಭವಿ ಮತ್ತು ಸ್ಪರ್ಧಾತ್ಮಕವಾಗಿದ್ದು, ವಸ್ತು ಪರಿಶೀಲನೆ ಮತ್ತು ಪರೀಕ್ಷೆ ಮತ್ತು ಅಸೆಂಬ್ಲಿ ತಪಾಸಣೆ ಮತ್ತು ಪರೀಕ್ಷೆ.",
+    "WHAT'S_NEW_DESCRIPTION": "ನಾವು ಸಲ್ಫರ್ ಹೆಕ್ಸಾಫ್ಲೋರೈಡ್ (ಎಸ್ಎಫ್ 6) ಎಲ್ಬಿಎಸ್ ಮತ್ತು ವಿತರಣೆ ಯಾಂತ್ರೀಕೃತಗೊಂಡ ಸಿಸ್ಟಮ್ (ಡಿಎಎಸ್) ಜೊತೆಗೆ ವ್ಯಾಕ್ಯೂಮ್ ಸರ್ಕ್ಯೂಟ್ ಬ್ರೇಕರ್ನೊಂದಿಗೆ ಹೊಸ ಉತ್ಪನ್ನ-ಕಾಂಪ್ಯಾಕ್ಟ್ ಆರ್ಎಂಯು ಅನ್ನು ಪ್ರಾರಂಭಿಸಿದೆವು."
+  },
+  "PRODUCTS": {
+    "PCVCB": "PORCELAIN CLAD VCB (PCVCB)",
+    "MCVCBO": "METAL CLAD VCB (MCVCB) OUTDOOR",
+    "MCVCBI": "METAL CLAD VCB (MCVCB) INDOOR",
+    "VCRMU": "VERY COMPACT RMU (VCRMU)",
+    "CSSS": "COMPACT SECONDARY SUB-STATION",
+    "CRMUSF6": "COMPACT RMU WITH SF6 LBS & VCB",
+    "VR5I": "VR 5 Indoor Panel",
+    "VR5O": "VR 5 Outdoor Panel (RMU)"
+  },
+  "MEI": {
+    "ABBREVIATION": "ಮೈಸೂರು ಎಲೆಕ್ಟ್ರಿಕಲ್ ಇಂಡಸ್ಟ್ರೀಸ್ ಲಿಮಿಟೆಡ್.",
+    "MOTTO": "ನಾವು ವಿದ್ಯುತ್ ರಕ್ಷಣೆಯಲ್ಲಿ ವೃತ್ತಿಪರರು",
+    "WE_LIKE_TO_INTRODUCE": "ನಾವು ಪರಿಚಯಿಸಲು ಇಷ್ಟಪಡುತ್ತೇವೆ",
+    "M_E_I": "M E I",
+    "OFFICE": "MEI ಕಚೇರಿ",
+    "WHY_MEI_TITLE": "MEI ಯಾಕೆ?",
+    "WHY_MEI_DESCRIPTION": "ಕಂಪ್ಯೂಟರ್ ಸರ್ಕ್ಯೂಟ್ ಬ್ರೇಕರ್ ವಿಶ್ಲೇಷಕ, ಕಂಪ್ಯೂಟರ್ ಎಯ್ಡೆಡ್ ಡಿಸೈನ್ ಸೆಂಟರ್, ಕಂಪ್ಯೂಟರ್ ಸಹಾಯದ ಯೋಜನೆಯನ್ನು ಚೆನ್ನಾಗಿ ಸುಸಜ್ಜಿತ ಪರೀಕ್ಷೆ ವಿಭಾಗ ಮತ್ತು ಪ್ರಖ್ಯಾತ ಟೂಲ್ ರೂಮ್ ಸೇರಿದಂತೆ ಸ್ಥಾಪಿತ ಸಂಶೋಧನೆ ಮತ್ತು ಅಭಿವೃದ್ಧಿ ವಿಭಾಗದ ಮೂಲಸೌಕರ್ಯ ಮತ್ತು ಉತ್ಪಾದನಾ ಸೌಲಭ್ಯಗಳ ಆಧಾರದಲ್ಲಿ ಕಂಪನಿಯು ಸ್ವಯಂ ಹೊಂದಿದೆ.",
+    "CERTIFICATES": "ಪ್ರಮಾಣಪತ್ರಗಳು"
+  },
+  "MAKE": {
+    "HEADER": "ನೀವು ಹೆಮ್ಮೆಪಡುವಂತಹವುಗಳನ್ನು ನಾವು ಮಾಡಿದ್ದೇವೆ",
+    "TITLE": "ಉತ್ಪನ್ನಗಳು ಮತ್ತು ಸ್ಪೇರ್ಸ್",
+    "DESCRIPTION": "ಎಲ್ಲಾ MEI ಉತ್ಪನ್ನಗಳು ಭೋಪಾಲ್ ಮತ್ತು ಬೆಂಗಳೂರಿನಲ್ಲಿ ವಿದೇಶಿ ಸಹಯೋಗಿಗಳಿಂದ ಮತ್ತು CPRI ಯಿಂದ ಸ್ವತಂತ್ರ ಪ್ರಮಾಣೀಕರಣದ ಮುಖ್ಯ ಲಕ್ಷಣವನ್ನು ಹೊಂದಿವೆ. ಇಂದು, 60 ವರ್ಷಗಳ ನಂತರ, MEI ಯ ಉತ್ಪನ್ನಗಳು ಜಗತ್ತಿನಾದ್ಯಂತ ಹರಡಿವೆ; ಸಿಂಗಾಪುರ್, ಕೀನ್ಯಾ, ಕುವೈತ್, ಸಿಲೋನ್, ಬರ್ಮಾ, ಬಹ್ರೇನ್, ಸುಡಾನ್, ಯುಎಇ, ಸೈಪ್ರಸ್ ಮತ್ತು ಇತರ ದೇಶಗಳು.",
+    "READ_MORE": "ಮತ್ತಷ್ಟು ಓದು"
+  },
+  "COMPANY_PROFILE": {
+    "HEADER": "Company Profile",
+    "TITLE": "The Mysore Electrical Industries Limited",
+    "DESCRIPTION_BOLD": "MEI is a leading public sector undertaking of the Government of Karnataka and the first among the pioneers who have brought switchgear into India. The company was established in the year 1945, more than seven decades ago and is in the business of manufacturing high quality Switchgear, Motor Control Gears and Solid State Electronic relays and allied switchgear equipment i.e., Instrument Transformers used in switchgear and other industrial applications.",
+    "DESCRIPTION_NORMAL1": "In the year 1945 the company entered into a collaboration with the British Company M/s. J.G. Statters and Company, for the manufacture of LT Oil Circuit Breaker up to 800 Amps. In the year 1956 this agreement was extended to cover Bulk Oil Circuit Breaker up to 12kV, 350MVA and 800 Amps, 12kV oil Fuse Switches and 12kV On-Load Oil Immersed Isolators. The company entered into an agreement with M/s. Stark storm of West Germany for the manufacturing of 10Amps and 25Amps LV Air-Break AC Contactors.",
+    "DESCRIPTION_NORMAL2": "In 1955 the company negotiated an agreement with M/s Gardy, S.A., Geneva, Switzerland, for the manufacturing of their H.T and E.H.T Minimum Oil Content Circuit Breakers. The company has diversified its activities by designing and developing Solid State Relays within the Company for Power System Protection and Industrial applications.",
+    "DESCRIPTION_NORMAL3": "In the year 1986 the company entered into a collaboration with M/s. E.I.B., S.A., Belgium, for manufacturing sophisticated Vacuum Circuit Breakers up to 33kV, 40kA and up to current rating of 3000Amps. All the above products have been successfully launched in the market and MEI has retained its reputation for quality products ever since its inceptions. The company is supplying to almost all the leading Electricity Boards and undertakings and industrial users through out the country.",
+    "DESCRIPTION_NORMAL4": "The company is self contained in respect of infrastructure and manufacturing facilities backed up by established Research and Development Division including Computer Circuit Breaker Analyzer, Computer Aided Design Center, Computer Aided planning well equipped testing division and a reputed Tool Room. In the year 1992 the company’s R&D has successfully developed Porcelain Clad Vacuum Circuit Breaker of electrical rating 12kV, 25kA and 1250Amps and successfully launched this product into market.",
+    "DESCRIPTION_NORMAL5": "MEI’s Product line today, comprises a wide range of High-Voltage circuit breakers, high voltage metal clad switchgears, stator rotor starters, Direct-On-Line and an array of relays and control devices, to name a few. MEI’s strong points according to independent industry observes Wide range of contemporary electrical equipment with extensive areas of application.",
+    "DESCRIPTION_NORMAL6": "All MEI products carry the hallmark of independent certification from foreign collaborators and CPRI’s at Bhopal and Bangalore. Today, after more than 60 years later , MEI’s products span the globe; Australia, Singapore , Kenya, Kuwait, Ceylon, Burma, Bahrain, Sudan, UAE, Cyprus and many other countries."
+  },
+  "VISION": {
+    "HEADER": "Vision",
+    "DESCRIPTION_BOLD": "MEI is working towards achieving Annul Turnover Target of Rs.75 Crores by 2016-2017. Main Thrust is given on R & D activities to keep ahead of Time in Technological changes and Market requirements.",
+    "DESCRIPTION_NORMAL1":"We continue to keep our Quality Standards high by which, reputation of MEI products is well known since seven decades.",
+    "DESCRIPTION_NORMAL2":"We are widening our Vendor Base, who are all ISO Certified, This is, to be Competitive in the Market and for Timely Delivery.",
+    "DESCRIPTION_NORMAL3":"Our Quality policy is “To achieve Total customer satisfaction by continuous improvement in Product, Corrective and Preventive action on Customer complaints and regular Management Reviews”."
+  },
+  "BOARD_OF_DIRECTORS": {
+    "HEADER": "Board of Directors",
+    "MADAM_KOMALA": {
+      "NAME": "Madam Komala",
+      "QUALIFICATION": "M.Com.",
+      "DESIGNATION": "MANAGING DIRECTOR",
+      "MOBILE": "9740253345",
+      "OFFICE": "080 23370793",
+      "EMAIL": "mei1md@rediffmil.com"
+    },
+    "UDDANNA": {
+      "NAME": "Sri.S E Uddanna",
+      "DESIGNATION": "Dy.General Manager (Works)I/C",
+      "MOBILE": "9449016506",
+      "OFFICE": "080 23475065",
+      "EMAIL": "meiworksdgm@gmail.com"
+    },
+    "BALACHANDRA": {
+      "NAME": "Sri. R. Balachandra",
+      "DESIGNATION": "Dy. Gen.Manager (Material Encharge) and Manager ( Maintenance, Projects)",
+      "MOBILE": "9448375146",
+      "OFFICE": "080 23379507",
+      "EMAIL": "meimatls9@gmail.com"
+    },
+    "MALLIKARJUNA": {
+      "NAME": "Sri. C.H.Mallikarjuna",
+      "DESIGNATION": "Manager (P&IR) & Manager Commercial I/c",
+      "MOBILE": "9448376644",
+      "OFFICE": "080 23372697",
+      "EMAIL": "mallikarjunach_hr@yahoo.com"
+    },
+    "MANOHAR": {
+      "NAME": "Sri V .Manohar",
+      "DESIGNATION": "Manager(QA/TR/Testing)",
+      "MOBILE": "944847941"
+    },
+    "SHARANAPPA": {
+      "NAME": "Sri Sharanappa",
+      "DESIGNATION": "Manager (Materials)",
+      "MOBILE": "94835569859",
+      "OFFICE": "08023379506",
+      "EMAIL": "meimatls9@gmail.com"
+    },
+    "THIMMANNA": {
+      "NAME": "Sri. P.Thimmanna",
+      "DESIGNATION": "Dy.Manager (Marketing)",
+      "MOBILE": "9448374819",
+      "OFFICE": "080 23371811",
+      "EMAIL": "meimktg@rediffmail.com"
+    },
+    "SRIDHARA": {
+      "NAME": "Sri. N.S Sridhara",
+      "DESIGNATION": "Finance & Accounts (Consultant)",
+      "MOBILE": "9448073316",
+      "OFFICE": "080 23576289",
+      "EMAIL": "meicexdept@gmail.com"
+    },
+    "SRIRAMAPRASAD": {
+      "NAME": "N. Sriramaprasad",
+      "DESIGNATION": "Deputy Manager (Finance & Accounts)I/c, ERP Nodal Officer",
+      "MOBILE": "9448073316",
+      "OFFICE": "080 23576289"
+    }
+  },
+  "MANAGEMENT_PROFILE": {
+    "HEADER": "Management Profile"
+  },
+  "ORGANISATION_CHART": {
+    "HEADER": "Organisation Chart"
+  },
+  "MANUFACTURING_PROCESS": {
+    "HEADER": "Manufacturing Process",
+    "DESCRIPTION1": "The Raw Materials and bought out Items are procured directly from the manufacturers to assure genuineness of the items. All items procured are inspected and tested as per the relevant standards The various materials undergo in-house manufacturing process on various machines.",
+    "DESCRIPTION2": "In order to achieve the desired quality, all items undergo inspection at all stages of manufacturing Finally 100% Inspection / Tests are carried out before sending them to assembly lines.",
+    "DESCRIPTION3": "Fabricated parts and tanks are neatly welded and all oil tanks are of leak proof welding. Oil tanks are pressure tested to examine leakage, if any, before they are sent to assembly lines.",
+    "DESCRIPTION4": "All parts which undergo painting degreased and hot phosphates to avoid corrosion, by 7 Hot Tank treatment before it is finally painted. Even parts which undergo plating are degreased and plated",
+    "DESCRIPTION5": "Painting consists of one coat of Red Oxide Primer and 2 coats of finish paint (as per the customers requirement). Every stage of sub-assembly is subjected to strict inspection and testing Care is being taken to achieve inter-changeability.",
+    "DESCRIPTION6": "All fasteners are tightened using torque wrenches and oil leads are tightened to optimum levels. All mechanisms are inspected and tested both mechanically and electrically before effecting dispatch to ensure trouble free service in the field.",
+    "PAINTING_PROCEDURE": {
+      "HEADER": "Paining Procedure",
+      "DESCRIPTION1": "All MS items undergo pre-treatment for rust removal and phosphating in a specially created 7 tank plant. The 7 tank plant contains alkahal bath, water bath, acid bath, water bath, phosphating and passivation.",
+      "DESCRIPTION2": "The strength of the both acid and phosphating solution are periodically checked in the laboratory and depending upon the strength of the acid, advice is given to replerish / replace the acid / phosphating solution.",
+      "DESCRIPTION3": "Further all these items are coated with zinc primer red-oxide for prevention of rust and then 2 to 3 coats of finished painting is applied before dispatching the same. Stove enamel painting facility is also available.",
+      "DESCRIPTION4": "The fabricated items and castings which are filled with oil etc. will be subject to leak prevention test by conducting pressure test on the same. Also all the tanks of the Circuit Breakers are subject to pressure testing."
+    }
+  },
+  "BUDGET": {
+    "HEADER": "Budget",
+    "BUDGET_2014_15_TITLE": "BUDGET ESTIMATES FOR THE YEAR-2014-15",
+    "THE_MYSORE_ELECTRICAL_INDUSTRIES_LTD": "THE MYSORE ELECTRICAL INDUSTRIES LTD.,",
+    "M_E_I_LTD": "The M.E.I. Ltd. Bangalore-560 022.",
+    "DATE": "Date:15.03.2014",
+    "PERFORMANCE_HEAEDER": "PERFORMANCE DURING THE YEAR-2013-14.",
+    "PRODUCTION": {
+      "HEADER": "PRODUCTION",
+      "DESCRIPTION": "The Company expects to achieve a production turnover of Rs.4507.54 lakhs in terms of Sale value, against the target of Rs.5000.00 lakhs, accounting for 90 % of the target set."
+    },
+    "SALES": {
+      "HEADER": "SALES",
+      "DESCRIPTION": "The expected Sales turnover during the year is Rs.4682.84 lakhs, against the target of Rs.5000.00 lakhs, accounting for 94 % of the target set. WORKING RESULTS FOR THE YEAR 2013-14: The working results for the year 2013-14 are expected to end up with a Profit of Rs.206.40 lakhs. and the accumulated loss at the year-end would be Rs.1635.27 lakhs."
+    },
+    "FINANCIAL_POSITION": {
+      "HEADER": "FINANCIAL POSITION OF THE COMPANY",
+      "DESCRIPTION": "The working capital management and financial position of the company during the year is satisfactory and the company is regular in paying all the statutory dues."
+    },
+    "ORDER_BOOK_POSITION": {
+      "HEADER": "ORDER BOOK POSITION",
+      "DESCRIPTION": "During the year 2013-14 the company has received the orders worth Rs.4030.69lakhs and executed orders worth Rs.4682.84lakhs. The order book position as at 1 st April 2013 was Rs.1777.35lakhs and the estimated value of orders as on 1st APRIL2014 is Rs.1125.20lakhs as detailed in ANNEXURE-1. The company is putting in serious efforts to mobilize the orders required for plant load during the next financial year."
+    },
+    "TARGET": {
+      "HEADER": "PRODUCTION AND SALES TARGET FOR 2014-15",
+      "DESCRIPTION": "The Production and Sales targets for the year 2014-15 are fixed at Rs.6511.00 lakhs each respectively. The details of Production and Sales targets are indicated in ANNEXURE-2,3 & 4."
+    },
+    "MATERIAL_COST": {
+      "HEADER": "MATERIAL COST",
+      "DESCRIPTION": "The estimated Material Cost to production during the year 2013-14 works out to be around 69%. The budgeted material cost to production for the year 2014-15 is expected to be around 69%. The details of Product wise and category wise material cost are given in ANNEX.- 5 & 6."
+    },
+    "PERSONNEL_COST": {
+      "HEADER": "PERSONNEL COST",
+      "DESCRIPTION1": "The total  strength of the Employees as on 1-4-2014 is as under :-",
+      "DESCRIPTION2": "The personnel Cost for the year  2013-14 is estimated at Rs.806.05 lakhs.The total budgeted personnel cost for the year 2014-15 is expected to be at Rs.907.55 lakhs. The details of Personnel cost are given in ANNEXURE-7 & 8.",
+      "WORKMEN_KEY": " Workmen",
+      "WORKMEN_VALUE": "70",
+      "STAFF_KEY": "Staff",
+      "STAFF_VALUE": "27",
+      "SUPERINTENDENTS_KEY": "Superintendents",
+      "SUPERINTENDENTS_VALUE": "8",
+      "OFFICERS_KEY": "Officers",
+      "OFFICERS_VALUE": "17",
+      "TOTAL_PERMANENT_EMPLOYEES_KEY": "Total no of permanent employees",
+      "TOTAL_PERMANENT_EMPLOYEES_VALUE": "122",
+      "CASUAL_LABORERS_KEY": "Casual laborers",
+      "CASUAL_LABORERS_VALUE": "65",
+      "APPRENTICES/TRAINEES_VALUE": "136",
+      "APPRENTICES/TRAINEES_KEY": "Apprentices/Trainees",
+      "TOTAL_KEY": "Total number of employees",
+      "TOTAL_VALUE": "323"
+
+    },
+    "VALUE_ADDITION": {
+      "HEADER": "VALUE ADDITION",
+      "DESCRIPTION": "The value addition per employee is expected to be at Rs.4.34 lakhs per annum as against the personnel cost of Rs.2.80 lakhs per annum per employee.The details are furnished in ANNEXURE-9."
+    },
+    "PROFIT_AND_LOSS": {
+      "HEADER": "PROFIT AND LOSS ACCOUNT",
+      "DESCRIPTION": "The Gross income for the year 2014-15 is budgeted at  Rs.5250.00 lakhs against which an expenditure of Rs.4955.03 lakhs is anticipated. The working results for the year 2014-15 on the above level of turnover is expected to end up with a profit of Rs.294.97 lakhs. The detailed Profit and Loss account together with the schedule of expenses are given in ANNEXURE-12,12A and 12B. "
+    },
+    "BUDGET_BALANCE_SHEET": {
+      "HEADER": "BUDGETED BALANCE SHEET",
+      "DESCRIPTION": "The Financial  Position of the Company as per the Budgeted operations is given in the Balance Sheet vide ANNEXURE-11 and 11A."
+    },
+    "FUND_FLOW_STATEMENT": {
+      "HEADER": "FUND FLOW STATEMENT",
+      "DESCRIPTION": "The budgeted fund flow statement is furnished in ANNEXURE-13."
+    },
+    "BREAK_EVEN_SALES": {
+      "HEADER": "BREAK EVEN SALES FOR THE YEAR 2013-14",
+      "DESCRIPTION": "The break even sales for the  year 2014-15 is estimated at Rs.4251.00 lakhs.  A detailed calculation is furnished in  ANNEXURE-14."
+    }
+  },
+  "PCVCB": {
+    "HEADER": "PORCELAIN CLAD VCB (PCVCB)",
+    "TYPE_KEY": "Type:",
+    "TYPE_VALUE": "PB5/25/12",
+    "RATING_KEY": "Rating:",
+    "RATING_VALUE": "11KV,Upto 1250A,50Hz up to 25KA",
+    "INSTALLATION_KEY": "Installation:",
+    "INSTALLATION_VALUE": "Outdoor"
+  },
+  "MCVCBO": {
+    "HEADER": "METAL CLAD VCB (MCVCB)",
+    "TYPE_KEY": "Type:",
+    "TYPE_VALUE": "VB5/25/12, VB5/31.5/20",
+    "RATING_KEY": "Rating:",
+    "RATING_VALUE": "11KV,1250A, 50Hz, 20KA,",
+    "RATING_VALUE1": ": 11KV,1600A, 50Hz, 25KA,",
+    "RATING_VALUE2": ": 11KV,2000A, 50Hz, 31.5KA",
+    "INSTALLATION_KEY": "Installation:",
+    "INSTALLATION_VALUE": "Outdoor"
+  },
+  "MCVCBI": {
+    "HEADER": "METAL CLAD VCB (MCVCB))",
+    "TYPE_KEY": "Type:",
+    "TYPE_VALUE": "VB5/25/12",
+    "RATING_KEY": "Rating:",
+    "RATING_VALUE": "11KV, 800A to1600A,20/25KA,50Hz",
+    "INSTALLATION_KEY": "Installation:",
+    "INSTALLATION_VALUE": "Indoor"
+  },
+  "VCRMU": {
+    "HEADER": "VERY COMPACT RMU (VCRMU)",
+    "TYPE_KEY": "Type:",
+    "TYPE_VALUE": "VB5/20/08",
+    "TYPE_VALUE1": ": 2 I/C LBS +1 O/G VCB",
+    "TYPE_VALUE2": ": 2 I/C VCB +1 O/G VCB",
+    "RATING_KEY": "Rating:",
+    "RATING_VALUE": "11KV 800A,20KA,50Hz",
+    "INSTALLATION_KEY": "Installation:",
+    "INSTALLATION_VALUE": "Outdoor"
+  },
+  "CSSS": {
+    "HEADER": "COMPACT SECONDARY SUB-STATION",
+    "TYPE_KEY": "Type:",
+    "TYPE_VALUE": "CSS 990V",
+    "RATING_KEY": "Rating:",
+    "RATING_VALUE": "990KVA",
+    "INSTALLATION_KEY": "Installation:",
+    "INSTALLATION_VALUE": "Outdoor"
+  },
+  "CRMUSF6": {
+    "HEADER": "COMPACT RMU WITH SF6 LBS & VCB",
+    "TYPE_KEY": "Type:",
+    "TYPE_VALUE": "VCRMU VB5/20/08",
+    "RATING_KEY": "Rating:",
+    "RATING_VALUE": "Upto 800A,20KA",
+    "INSTALLATION_KEY": "Installation:",
+    "INSTALLATION_VALUE": "Outdoor"
+  },
+  "VR5I": {
+    "HEADER": "VR 5 Indoor Panel",
+    "TYPE_KEY": "Type:",
+    "TYPE_VALUE": "11KV/VR 5/20/08"
+  },
+  "VR5O": {
+    "HEADER": "VR 5 Outdoor Panel (RMU)",
+    "TYPE_KEY": "Type:",
+    "TYPE_VALUE": "11KV/VR 5/20/08"
+  }
+}
+

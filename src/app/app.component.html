@@ -1,0 +1,112 @@
+<div>
+  <label>
+    {{ 'HOME.SELECT' | translate }}
+    <select #langSelect (change)="translate.use(langSelect.value)">
+      <option *ngFor="let lang of translate.getLangs()" [value]="lang" [selected]="lang === translate.currentLang">{{ lang }}</option>
+    </select>
+  </label>
+</div>
+<nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
+  <a class="navbar-brand" routerLink="/home">
+    <img src="assets/images/mPurpose-logo2.png" alt="">
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          {{'NAVBAR.ABOUT' | translate}}
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" routerLink="/company-profile">{{'ABOUT.COMPANY_PROFILE' | translate}}</a>
+          <a class="dropdown-item" routerLink="/vision">{{'ABOUT.VISION' | translate}}</a>
+          <a class="dropdown-item" routerLink="/board-of-directors">{{'ABOUT.BOARD_OF_DIRECTORS' | translate}}</a>
+          <a class="dropdown-item" routerLink="/management-profile">{{'ABOUT.MANAGEMENT_PROFILE' | translate}}</a>
+          <a class="dropdown-item" routerLink="/organisation-chart">{{'ABOUT.ORGANISATION_CHART' | translate}}</a>
+          <a class="dropdown-item" routerLink="/manufacturing-process">{{'ABOUT.MANUFACTURING_PROCESS' | translate}}</a>
+          <a class="dropdown-item" routerLink="/budget">{{'ABOUT.BUDGET' | translate}}</a>
+        </div>
+      </li>
+    </ul>
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          {{'NAVBAR.PRODUCTS' | translate}}
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" routerLink="/products/PCVCB">{{'PRODUCTS.PCVCB' | translate}}</a>
+          <a class="dropdown-item" routerLink="/products/MCVCBO">{{'PRODUCTS.MCVCBO' | translate}}</a>
+          <a class="dropdown-item" routerLink="/products/MCVCBI">{{'PRODUCTS.MCVCBI' | translate}}</a>
+          <a class="dropdown-item" routerLink="/products/VCRMU">{{'PRODUCTS.VCRMU' | translate}}</a>
+          <a class="dropdown-item" routerLink="/products/CSSS">{{'PRODUCTS.CSSS' | translate}}</a>
+          <a class="dropdown-item" routerLink="/products/CRMUSF6">{{'PRODUCTS.CRMUSF6' | translate}}</a>
+          <a class="dropdown-item" routerLink="/products/VR5I">{{'PRODUCTS.VR5I' | translate}}</a>
+          <a class="dropdown-item" routerLink="/products/VR5O">{{'PRODUCTS.VR5O' | translate}}</a>
+        </div>
+      </li>
+    </ul>
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          {{'NAVBAR.SERVICES' | translate}}
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" routerLink="/services/retrofitting">{{'RETROFITTING.HEADER' | translate}}</a>
+        </div>
+      </li>
+    </ul>
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          {{'NAVBAR.SPARES' | translate}}
+        </a>
+      </li>
+    </ul>
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          {{'NAVBAR.QUALITY' | translate}}
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" routerLink="/quality/certificates">{{'CERTIFICATES.HEADER' | translate}}</a>
+          <a class="dropdown-item" routerLink="/quality/routine-tests">{{'ROUTINE_TESTS.HEADER' | translate}}</a>
+          <a class="dropdown-item" routerLink="/quality/testing-facilities">{{'TESTING_FACILITIES.HEADER' | translate}}</a>
+          <a class="dropdown-item" routerLink="/quality/short-circuit-performance">{{'SHORT_CIRCUIT_PERFORMANCE.HEADER' | translate}}</a>
+          <a class="dropdown-item" routerLink="/quality/research-and-development">{{'RESEARCH.HEADER' | translate}}</a>
+        </div>
+      </li>
+    </ul>
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          {{'NAVBAR.CUSTOMERS' | translate}}
+        </a>
+      </li>
+    </ul>
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          {{'NAVBAR.DEALERS' | translate}}
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" routerLink="/dealers/all-dealers">{{'ALL_DEALERS.HEADER' | translate}}</a>
+        </div>
+      </li>
+    </ul>
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/contact-us">
+          {{'NAVBAR.CONTACT' | translate}}
+        </a>
+      </li>
+    </ul>
+
+
+  </div>
+</nav>
+<router-outlet></router-outlet>
+
+
