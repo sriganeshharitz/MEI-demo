@@ -26,6 +26,10 @@ import { ResearchComponent } from './components/research/research.component';
 import { TestingFacilitiesComponent } from './components/testing-facilities/testing-facilities.component';
 import { RoutineTestsComponent } from './components/routine-tests/routine-tests.component';
 import { AllDealersComponent } from './components/all-dealers/all-dealers.component';
+import { StateGovernmentDepartmentComponent } from './components/state-government-department/state-government-department.component';
+import { CentralGovernmentDepartmentComponent } from './components/central-government-department/central-government-department.component';
+import { ScientificEstablishmentsComponent } from './components/scientific-establishments/scientific-establishments.component';
+import { SparesComponent } from './components/spares/spares.component';
 export function HttpLoaderFactory(http: HttpClient) {
   return new TranslateHttpLoader(http);
 }
@@ -50,7 +54,11 @@ export function HttpLoaderFactory(http: HttpClient) {
     ResearchComponent,
     TestingFacilitiesComponent,
     RoutineTestsComponent,
-    AllDealersComponent
+    AllDealersComponent,
+    StateGovernmentDepartmentComponent,
+    CentralGovernmentDepartmentComponent,
+    ScientificEstablishmentsComponent,
+    SparesComponent
   ],
   imports: [
     BrowserModule,

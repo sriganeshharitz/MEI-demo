@@ -63,6 +63,9 @@
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           {{'NAVBAR.SPARES' | translate}}
         </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" routerLink="/spares/SPARES_FOR_VB5">{{'SPARES_FOR_VB5.HEADER' | translate}}</a>
+        </div>
       </li>
     </ul>
     <ul class="navbar-nav mr-auto">
@@ -84,6 +87,11 @@
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           {{'NAVBAR.CUSTOMERS' | translate}}
         </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" routerLink="/customers/state-govt-department">{{'STATE_GOVT.HEADER' | translate}}</a>
+          <a class="dropdown-item" routerLink="/customers/central-govt-department">{{'CENTRAL_GOVT.HEADER' | translate}}</a>
+          <a class="dropdown-item" routerLink="/customers/scientific-and-research-establishments">{{'SCIENTIFIC_ESTABLISHMENTS.HEADER' | translate}}</a>
+        </div>
       </li>
     </ul>
     <ul class="navbar-nav mr-auto">

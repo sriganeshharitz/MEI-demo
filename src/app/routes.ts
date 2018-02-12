@@ -17,8 +17,16 @@ import {TestingFacilitiesComponent} from "./components/testing-facilities/testin
 import {RoutineTestsComponent} from "./components/routine-tests/routine-tests.component";
 import {ContactComponent} from "./components/contact/contact.component";
 import {AllDealersComponent} from "./components/all-dealers/all-dealers.component";
+import {StateGovernmentDepartmentComponent} from "./components/state-government-department/state-government-department.component";
+import {CentralGovernmentDepartmentComponent} from "./components/central-government-department/central-government-department.component";
+import {ScientificEstablishmentsComponent} from "./components/scientific-establishments/scientific-establishments.component";
+import {SparesComponent} from "./components/spares/spares.component";
 
 export const ROUTES: Routes = [
+  {path: 'spares/:spares', component: SparesComponent},
+  {path: 'customers/scientific-and-research-establishments', component: ScientificEstablishmentsComponent},
+  {path: 'customers/central-govt-department', component: CentralGovernmentDepartmentComponent},
+  {path: 'customers/state-govt-department', component: StateGovernmentDepartmentComponent},
   {path: 'dealers/all-dealers', component: AllDealersComponent},
   {path: 'contact-us', component: ContactComponent},
   {path: 'quality/routine-tests', component: RoutineTestsComponent},

@@ -538,5 +538,39 @@
       "FAX": "0832-2224560",
       "EMAIL": "shirwaikr@sancharnet.in"
     }
+  },
+  "STATE_GOVT": {
+    "HEADER": "STATE GOVERNMENT DEPARTMENT",
+    "TITLE": "State Government Department",
+    "DEPT1": "Energy Department.",
+    "DEPT2": "Karnataka Power Transmission Corporation Limited (KPTCL)",
+    "DEPT3": "Bangalore Electricity Supply Company Limited (BESCOM)",
+    "DEPT4": "Chamundeshwari Electricity Supply Corporation (CESC)",
+    "DEPT5": "Gulbarga Electricity Supply Company Ltd. (GESCOM)",
+    "DEPT6": "Hubli Electricity Supply Company Ltd. ( HESCOM)",
+    "DEPT7": "Mangaluru Electricity Supply Company Ltd. ( MESCOM)",
+    "DEPT8": "Karnataka State Road Transport Corporation (KSRTC)",
+    "DEPT9": "Karnataka Industrial Area Development Board (KIADB)",
+    "DEPT10": "Karnataka Urban Water Supply Sewerage Board (KUWSSB)",
+    "DEPT11": "Bangalore Development Authority (BDA)"
+  },
+  "CENTRAL_GOVT": {
+    "HEADER": "CENTRAL GOVERNMENT DEPARTMENT",
+    "TITLE": "Central Government Department",
+    "DEPT1": "Department of Irrigation.",
+    "DEPT2": "Central Public Works Department.",
+    "DEPT3": "Delhi Jal Board."
+  },
+  "SCIENTIFIC_ESTABLISHMENTS": {
+    "HEADER": "SCIENTIFIC AND RESEARCH ESTABLISHMENTS",
+    "TITLE": "Scientific and Research Establishments",
+    "DEPT1": "ISRO",
+    "DEPT2": "NTPC",
+    "DEPT3": "BABARC",
+    "DEPT4": "IIT"
+  },
+  "SPARES_FOR_VB5" : {
+    "HEADER": "SPARES_FOR_VB5",
+    "TITLE": "SPARES FOR VB5, VR5 & PB5"
   }
 }
