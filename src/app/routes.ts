@@ -34,6 +34,13 @@ import {Ria8Component} from "./components/ria/ria8/ria8.component";
 import {Ria9Component} from "./components/ria/ria9/ria9.component";
 import {Ria10Component} from "./components/ria10/ria10.component";
 import {Ria11Component} from "./components/ria/ria11/ria11.component";
+import {Ria12Component} from "./components/ria/ria12/ria12.component";
+import {Ria13Component} from "./components/ria/ria13/ria13.component";
+import {Ria14Component} from "./components/ria/ria14/ria14.component";
+import {Ria15Component} from "./components/ria/ria15/ria15.component";
+import {Ria16Component} from "./components/ria/ria16/ria16.component";
+import {Ria181Component} from "./components/ria/ria18-1/ria18-1.component";
+import {Ria182Component} from "./components/ria/ria18-2/ria18-2.component";
 
 export const ROUTES: Routes = [
   {path: 'ria', component: Ria2005Component,
@@ -49,7 +56,14 @@ export const ROUTES: Routes = [
       {path: 'ria8', component: Ria8Component},
       {path: 'ria9', component: Ria9Component},
       {path: 'ria10', component: Ria10Component},
-      {path: 'ria11', component: Ria11Component}
+      {path: 'ria11', component: Ria11Component},
+      {path: 'ria12', component: Ria12Component},
+      {path: 'ria13', component: Ria13Component},
+      {path: 'ria14', component: Ria14Component},
+      {path: 'ria15', component: Ria15Component},
+      {path: 'ria16', component: Ria16Component},
+      {path: 'ria18-1', component: Ria181Component},
+      {path: 'ria18-2', component: Ria182Component}
     ]
   },
   {path: 'spares/:spares', component: SparesComponent},
