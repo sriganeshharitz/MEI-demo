@@ -17,7 +17,7 @@ export class SparesComponent implements OnInit {
 
   ngOnInit() {
     console.log('insode on init');
-    console.log(Spares.SPARES_FOR_VB5);
+    console.log(Spares.SPARES_FOR_PCVCB);
     this.route.params.subscribe(
       (params: Params) => {
         let spares = params['spares'];
@@ -39,4 +39,12 @@ export class SparesComponent implements OnInit {
     );
   }
 
+  add(card: HTMLDivElement) {
+    card.classList.add('border');
+    card.classList.add('border-danger');
+  }
+  remove(card: HTMLDivElement) {
+    card.classList.remove('border-danger');
+    card.classList.remove('border');
+  }
 }

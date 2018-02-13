@@ -14,4 +14,11 @@ export class AppComponent {
     //let browserLang = translate.getBrowserLang();
    // translate.use(browserLang.match(/en|fr/) ? browserLang : 'en');
   }
+  add(ele: HTMLAnchorElement) {
+    // console.log('hovered');
+    ele.classList.add('text-dark');
+  }
+  remove(ele: HTMLAnchorElement) {
+    ele.classList.remove('text-dark');
+  }
 }

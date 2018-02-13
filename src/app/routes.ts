@@ -21,8 +21,37 @@ import {StateGovernmentDepartmentComponent} from "./components/state-government-
 import {CentralGovernmentDepartmentComponent} from "./components/central-government-department/central-government-department.component";
 import {ScientificEstablishmentsComponent} from "./components/scientific-establishments/scientific-establishments.component";
 import {SparesComponent} from "./components/spares/spares.component";
+import {Ria2005Component} from "./components/ria/ria-2005/ria-2005.component";
+import {RtiComponent} from "./components/ria/rti/rti.component";
+import {Ria1Component} from "./components/ria/ria1/ria1.component";
+import {Ria2Component} from "./components/ria/ria2/ria2.component";
+import {Ria3Component} from "./components/ria/ria3/ria3.component";
+import {Ria4Component} from "./components/ria/ria4/ria4.component";
+import {Ria5Component} from "./components/ria/ria5/ria5.component";
+import {Ria6Component} from "./components/ria/ria6/ria6.component";
+import {Ria7Component} from "./components/ria/ria7/ria7.component";
+import {Ria8Component} from "./components/ria/ria8/ria8.component";
+import {Ria9Component} from "./components/ria/ria9/ria9.component";
+import {Ria10Component} from "./components/ria10/ria10.component";
+import {Ria11Component} from "./components/ria/ria11/ria11.component";
 
 export const ROUTES: Routes = [
+  {path: 'ria', component: Ria2005Component,
+    children: [
+      {path: 'home', component: RtiComponent},
+      {path: 'ria1', component: Ria1Component},
+      {path: 'ria2', component: Ria2Component},
+      {path: 'ria3', component: Ria3Component},
+      {path: 'ria4', component: Ria4Component},
+      {path: 'ria5', component: Ria5Component},
+      {path: 'ria6', component: Ria6Component},
+      {path: 'ria7', component: Ria7Component},
+      {path: 'ria8', component: Ria8Component},
+      {path: 'ria9', component: Ria9Component},
+      {path: 'ria10', component: Ria10Component},
+      {path: 'ria11', component: Ria11Component}
+    ]
+  },
   {path: 'spares/:spares', component: SparesComponent},
   {path: 'customers/scientific-and-research-establishments', component: ScientificEstablishmentsComponent},
   {path: 'customers/central-govt-department', component: CentralGovernmentDepartmentComponent},

@@ -30,6 +30,21 @@ import { StateGovernmentDepartmentComponent } from './components/state-governmen
 import { CentralGovernmentDepartmentComponent } from './components/central-government-department/central-government-department.component';
 import { ScientificEstablishmentsComponent } from './components/scientific-establishments/scientific-establishments.component';
 import { SparesComponent } from './components/spares/spares.component';
+import { FooterComponent } from './components/footer/footer.component';
+import { Ria2005Component } from './components/ria/ria-2005/ria-2005.component';
+import { RtiComponent } from './components/ria/rti/rti.component';
+import { Ria1Component } from './components/ria/ria1/ria1.component';
+import { Ria2Component } from './components/ria/ria2/ria2.component';
+import { Ria3Component } from './components/ria/ria3/ria3.component';
+import { Ria4Component } from './components/ria/ria4/ria4.component';
+import { Ria5Component } from './components/ria/ria5/ria5.component';
+import { Ria6Component } from './components/ria/ria6/ria6.component';
+import { Ria7Component } from './components/ria/ria7/ria7.component';
+import { Ria8Component } from './components/ria/ria8/ria8.component';
+import { Ria9Component } from './components/ria/ria9/ria9.component';
+import { Ria10Component } from './components/ria10/ria10.component';
+import { Ria11Component } from './components/ria/ria11/ria11.component';
+import { Ria12Component } from './components/ria/ria12/ria12.component';
 export function HttpLoaderFactory(http: HttpClient) {
   return new TranslateHttpLoader(http);
 }
@@ -58,7 +73,22 @@ export function HttpLoaderFactory(http: HttpClient) {
     StateGovernmentDepartmentComponent,
     CentralGovernmentDepartmentComponent,
     ScientificEstablishmentsComponent,
-    SparesComponent
+    SparesComponent,
+    FooterComponent,
+    Ria2005Component,
+    RtiComponent,
+    Ria1Component,
+    Ria2Component,
+    Ria3Component,
+    Ria4Component,
+    Ria5Component,
+    Ria6Component,
+    Ria7Component,
+    Ria8Component,
+    Ria9Component,
+    Ria10Component,
+    Ria11Component,
+    Ria12Component
   ],
   imports: [
     BrowserModule,

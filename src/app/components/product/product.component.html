@@ -7,20 +7,20 @@
 
       <div class="col-md-6 mt-lg-5">
         <div class="card">
-          <div class="card-header">
+          <div class="card-header bg-dark text-warning">
             {{pid+'.HEADER' | translate}}
           </div>
           <div class="card-body" *ngIf="pid !== 'VR5I' && pid !== 'VR5O'">
-            <p><strong>{{pid+'.TYPE_KEY' | translate}}</strong> {{pid+'.TYPE_VALUE' | translate}}</p>
+            <p><strong class="text-warning">{{pid+'.TYPE_KEY' | translate}}</strong> {{pid+'.TYPE_VALUE' | translate}}</p>
             <p *ngIf="pid && pid==='VCRMU'">{{pid+'.TYPE_VALUE1' | translate}}</p>
             <p *ngIf="pid && pid==='VCRMU'">{{pid+'.TYPE_VALUE2' | translate}}</p>
-            <p><strong>{{pid+'.RATING_KEY' | translate}}</strong> {{pid+'.RATING_VALUE' | translate}}</p>
+            <p><strong class="text-warning">{{pid+'.RATING_KEY' | translate}}</strong> {{pid+'.RATING_VALUE' | translate}}</p>
             <p *ngIf="pid && pid==='MCVCBO'">{{pid+'.RATING_VALUE1' | translate}}</p>
             <p *ngIf="pid && pid==='MCVCBO'">{{pid+'.RATING_VALUE2' | translate}}</p>
-            <p><strong>{{pid+'.INSTALLATION_KEY' | translate}}</strong> {{pid+'.INSTALLATION_VALUE' | translate}}</p>
+            <p><strong class="text-warning">{{pid+'.INSTALLATION_KEY' | translate}}</strong> {{pid+'.INSTALLATION_VALUE' | translate}}</p>
           </div>
           <div class="card-body" *ngIf="pid === 'VR5I' || pid === 'VR5O'">
-            <p><strong>{{pid+'.TYPE_KEY' | translate}}</strong> {{pid+'.TYPE_VALUE' | translate}}</p>
+            <p><strong class="text-warning">{{pid+'.TYPE_KEY' | translate}}</strong> {{pid+'.TYPE_VALUE' | translate}}</p>
           </div>
         </div>
       </div>

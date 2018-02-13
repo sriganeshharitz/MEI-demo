@@ -1,14 +1,14 @@
 <section>
   <div class="container" *ngIf="spares">
-    <h4 class="display-4">
+    <h4 class="display-4 text-danger">
       {{name+'.TITLE' | translate}}
     </h4>
     <hr>
     <div class="row">
-      <div class="col-md-3" *ngFor="let spare of spares">
-        <img src="assets/images/spares/{{spare.name.replace(' ','-')}}-150x150.jpg" alt="">
-        <p>{{spare.id}}</p>
-        <p>{{spare.name}}</p>
+      <div class="col-md-3 text-center" (mouseenter)="add(card)" (mouseleave)="remove(card)" #card *ngFor="let spare of spares">
+        <img src="assets/images/spares/{{spare.id}}.jpg" alt="">
+        <p class="text-primary mb-0">{{spare.id}}</p>
+        <p class="text-primary">{{spare.name}}</p>
       </div>
     </div>
   </div>

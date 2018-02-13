@@ -1,12 +1,12 @@
-<div>
-  <label>
-    {{ 'HOME.SELECT' | translate }}
-    <select #langSelect (change)="translate.use(langSelect.value)">
-      <option *ngFor="let lang of translate.getLangs()" [value]="lang" [selected]="lang === translate.currentLang">{{ lang }}</option>
-    </select>
-  </label>
-</div>
-<nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
+<!--<div>-->
+  <!--<label>-->
+    <!--{{ 'HOME.SELECT' | translate }}-->
+    <!--<select #langSelect (change)="translate.use(langSelect.value)">-->
+      <!--<option *ngFor="let lang of translate.getLangs()" [value]="lang" [selected]="lang === translate.currentLang">{{ lang }}</option>-->
+    <!--</select>-->
+  <!--</label>-->
+<!--</div>-->
+<nav class="navbar navbar-expand-lg navbar-light sticky-top" style="background-color: #3f4144;">
   <a class="navbar-brand" routerLink="/home">
     <img src="assets/images/mPurpose-logo2.png" alt="">
   </a>
@@ -17,104 +17,122 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <a class="nav-link dropdown-toggle text-warning" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           {{'NAVBAR.ABOUT' | translate}}
         </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" routerLink="/company-profile">{{'ABOUT.COMPANY_PROFILE' | translate}}</a>
-          <a class="dropdown-item" routerLink="/vision">{{'ABOUT.VISION' | translate}}</a>
-          <a class="dropdown-item" routerLink="/board-of-directors">{{'ABOUT.BOARD_OF_DIRECTORS' | translate}}</a>
-          <a class="dropdown-item" routerLink="/management-profile">{{'ABOUT.MANAGEMENT_PROFILE' | translate}}</a>
-          <a class="dropdown-item" routerLink="/organisation-chart">{{'ABOUT.ORGANISATION_CHART' | translate}}</a>
-          <a class="dropdown-item" routerLink="/manufacturing-process">{{'ABOUT.MANUFACTURING_PROCESS' | translate}}</a>
-          <a class="dropdown-item" routerLink="/budget">{{'ABOUT.BUDGET' | translate}}</a>
+        <div class="dropdown-menu bg-dark" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item text-warning" (mouseenter)="add(itema)" (mouseleave)="remove(itema)" #itema routerLink="/company-profile">{{'ABOUT.COMPANY_PROFILE' | translate}}</a>
+          <a class="dropdown-item text-warning" (mouseenter)="add(itemb)" (mouseleave)="remove(itemb)" #itemb routerLink="/vision">{{'ABOUT.VISION' | translate}}</a>
+          <a class="dropdown-item text-warning" (mouseenter)="add(itemc)" (mouseleave)="remove(itemc)" #itemc routerLink="/board-of-directors">{{'ABOUT.BOARD_OF_DIRECTORS' | translate}}</a>
+          <a class="dropdown-item text-warning" (mouseenter)="add(itemd)" (mouseleave)="remove(itemd)" #itemd routerLink="/management-profile">{{'ABOUT.MANAGEMENT_PROFILE' | translate}}</a>
+          <a class="dropdown-item text-warning" (mouseenter)="add(iteme)" (mouseleave)="remove(iteme)" #iteme routerLink="/organisation-chart">{{'ABOUT.ORGANISATION_CHART' | translate}}</a>
+          <a class="dropdown-item text-warning" (mouseenter)="add(itemf)" (mouseleave)="remove(itemf)" #itemf routerLink="/manufacturing-process">{{'ABOUT.MANUFACTURING_PROCESS' | translate}}</a>
+          <a class="dropdown-item text-warning" (mouseenter)="add(itemx)" (mouseleave)="remove(itemx)" #itemx routerLink="/ria">{{'ABOUT.RIA' | translate}}</a>
+          <a class="dropdown-item text-warning" (mouseenter)="add(itemg)" (mouseleave)="remove(itemg)" #itemg routerLink="/budget">{{'ABOUT.BUDGET' | translate}}</a>
         </div>
       </li>
     </ul>
     <ul class="navbar-nav mr-auto">
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <a class="nav-link dropdown-toggle text-warning" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           {{'NAVBAR.PRODUCTS' | translate}}
         </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" routerLink="/products/PCVCB">{{'PRODUCTS.PCVCB' | translate}}</a>
-          <a class="dropdown-item" routerLink="/products/MCVCBO">{{'PRODUCTS.MCVCBO' | translate}}</a>
-          <a class="dropdown-item" routerLink="/products/MCVCBI">{{'PRODUCTS.MCVCBI' | translate}}</a>
-          <a class="dropdown-item" routerLink="/products/VCRMU">{{'PRODUCTS.VCRMU' | translate}}</a>
-          <a class="dropdown-item" routerLink="/products/CSSS">{{'PRODUCTS.CSSS' | translate}}</a>
-          <a class="dropdown-item" routerLink="/products/CRMUSF6">{{'PRODUCTS.CRMUSF6' | translate}}</a>
-          <a class="dropdown-item" routerLink="/products/VR5I">{{'PRODUCTS.VR5I' | translate}}</a>
-          <a class="dropdown-item" routerLink="/products/VR5O">{{'PRODUCTS.VR5O' | translate}}</a>
+        <div class="dropdown-menu bg-dark" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item text-warning" (mouseenter)="add(itemh)" (mouseleave)="remove(itemh)" #itemh routerLink="/products/PCVCB">{{'PRODUCTS.PCVCB' | translate}}</a>
+          <a class="dropdown-item text-warning" (mouseenter)="add(itemi)" (mouseleave)="remove(itemi)" #itemi routerLink="/products/MCVCBO">{{'PRODUCTS.MCVCBO' | translate}}</a>
+          <a class="dropdown-item text-warning" (mouseenter)="add(itemj)" (mouseleave)="remove(itemj)" #itemj routerLink="/products/MCVCBI">{{'PRODUCTS.MCVCBI' | translate}}</a>
+          <a class="dropdown-item text-warning" (mouseenter)="add(itemk)" (mouseleave)="remove(itemk)" #itemk routerLink="/products/VCRMU">{{'PRODUCTS.VCRMU' | translate}}</a>
+          <a class="dropdown-item text-warning" (mouseenter)="add(iteml)" (mouseleave)="remove(iteml)" #iteml routerLink="/products/CSSS">{{'PRODUCTS.CSSS' | translate}}</a>
+          <a class="dropdown-item text-warning" (mouseenter)="add(itemm)" (mouseleave)="remove(itemm)" #itemm routerLink="/products/CRMUSF6">{{'PRODUCTS.CRMUSF6' | translate}}</a>
+          <a class="dropdown-item text-warning" (mouseenter)="add(itemn)" (mouseleave)="remove(itemn)" #itemn routerLink="/products/VR5I">{{'PRODUCTS.VR5I' | translate}}</a>
+          <a class="dropdown-item text-warning" (mouseenter)="add(itemo)" (mouseleave)="remove(itemo)" #itemo routerLink="/products/VR5O">{{'PRODUCTS.VR5O' | translate}}</a>
         </div>
       </li>
     </ul>
     <ul class="navbar-nav mr-auto">
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <a class="nav-link dropdown-toggle text-warning" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           {{'NAVBAR.SERVICES' | translate}}
         </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" routerLink="/services/retrofitting">{{'RETROFITTING.HEADER' | translate}}</a>
+        <div class="dropdown-menu bg-dark" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item text-warning" (mouseenter)="add(itemp)" (mouseleave)="remove(itemp)" #itemp routerLink="/services/retrofitting">{{'RETROFITTING.HEADER' | translate}}</a>
         </div>
       </li>
     </ul>
     <ul class="navbar-nav mr-auto">
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <a class="nav-link dropdown-toggle text-warning" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           {{'NAVBAR.SPARES' | translate}}
         </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" routerLink="/spares/SPARES_FOR_VB5">{{'SPARES_FOR_VB5.HEADER' | translate}}</a>
+        <div class="dropdown-menu bg-dark" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item text-warning" (mouseenter)="add(itemq)" (mouseleave)="remove(itemq)" #itemq routerLink="/spares/SPARES_FOR_VB5">{{'SPARES_FOR_VB5.TITLE' | translate}}</a>
+          <a class="dropdown-item text-warning" (mouseenter)="add(itemr)" (mouseleave)="remove(itemr)" #itemr routerLink="/spares/SPARES_FOR_MCVCB_PANELS">{{'SPARES_FOR_MCVCB_PANELS.TITLE' | translate}}</a>
+			    <a class="dropdown-item text-warning" (mouseenter)="add(itemt)" (mouseleave)="remove(itemt)" #itemt routerLink="/spares/SPARES_FOR_PCVCB">{{'SPARES_FOR_PCVCB.TITLE' | translate}}</a>
+          <a class="dropdown-item text-warning" (mouseenter)="add(itemu)" (mouseleave)="remove(itemu)" #itemu routerLink="/spares/SPARES_FOR_VCB">{{'SPARES_FOR_VCB.TITLE' | translate}}</a>
+          <a class="dropdown-item text-warning" (mouseenter)="add(itemv)" (mouseleave)="remove(itemv)" #itemv routerLink="/spares/SPARES_FOR_RMU">{{'SPARES_FOR_RMU.TITLE' | translate}}</a>
+          <a class="dropdown-item text-warning" (mouseenter)="add(itemw)" (mouseleave)="remove(itemw)" #itemw routerLink="/spares/SPARES_FOR_SF6">{{'SPARES_FOR_SF6.TITLE' | translate}}</a>
         </div>
       </li>
     </ul>
     <ul class="navbar-nav mr-auto">
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <a class="nav-link dropdown-toggle text-warning" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           {{'NAVBAR.QUALITY' | translate}}
         </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" routerLink="/quality/certificates">{{'CERTIFICATES.HEADER' | translate}}</a>
-          <a class="dropdown-item" routerLink="/quality/routine-tests">{{'ROUTINE_TESTS.HEADER' | translate}}</a>
-          <a class="dropdown-item" routerLink="/quality/testing-facilities">{{'TESTING_FACILITIES.HEADER' | translate}}</a>
-          <a class="dropdown-item" routerLink="/quality/short-circuit-performance">{{'SHORT_CIRCUIT_PERFORMANCE.HEADER' | translate}}</a>
-          <a class="dropdown-item" routerLink="/quality/research-and-development">{{'RESEARCH.HEADER' | translate}}</a>
+        <div class="dropdown-menu bg-dark" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item text-warning" (mouseenter)="add(item1)" (mouseleave)="remove(item1)" #item1 routerLink="/quality/certificates">{{'CERTIFICATES.HEADER' | translate}}</a>
+          <a class="dropdown-item text-warning" (mouseenter)="add(item2)" (mouseleave)="remove(item2)" #item2 routerLink="/quality/routine-tests">{{'ROUTINE_TESTS.HEADER' | translate}}</a>
+          <a class="dropdown-item text-warning" (mouseenter)="add(item3)" (mouseleave)="remove(item3)" #item3 routerLink="/quality/testing-facilities">{{'TESTING_FACILITIES.HEADER' | translate}}</a>
+          <a class="dropdown-item text-warning" (mouseenter)="add(item4)" (mouseleave)="remove(item4)" #item4 routerLink="/quality/short-circuit-performance">{{'SHORT_CIRCUIT_PERFORMANCE.HEADER' | translate}}</a>
+          <a class="dropdown-item text-warning" (mouseenter)="add(item5)" (mouseleave)="remove(item5)" #item5 routerLink="/quality/research-and-development">{{'RESEARCH.HEADER' | translate}}</a>
         </div>
       </li>
     </ul>
     <ul class="navbar-nav mr-auto">
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <a class="nav-link dropdown-toggle text-warning" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           {{'NAVBAR.CUSTOMERS' | translate}}
         </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" routerLink="/customers/state-govt-department">{{'STATE_GOVT.HEADER' | translate}}</a>
-          <a class="dropdown-item" routerLink="/customers/central-govt-department">{{'CENTRAL_GOVT.HEADER' | translate}}</a>
-          <a class="dropdown-item" routerLink="/customers/scientific-and-research-establishments">{{'SCIENTIFIC_ESTABLISHMENTS.HEADER' | translate}}</a>
+        <div class="dropdown-menu bg-dark" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item text-warning" (mouseenter)="add(item6)" (mouseleave)="remove(item6)" #item6 routerLink="/customers/state-govt-department">{{'STATE_GOVT.HEADER' | translate}}</a>
+          <a class="dropdown-item text-warning" (mouseenter)="add(item7)" (mouseleave)="remove(item7)" #item7 routerLink="/customers/central-govt-department">{{'CENTRAL_GOVT.HEADER' | translate}}</a>
+          <a class="dropdown-item text-warning" (mouseenter)="add(item8)" (mouseleave)="remove(item8)" #item8 routerLink="/customers/scientific-and-research-establishments">{{'SCIENTIFIC_ESTABLISHMENTS.HEADER' | translate}}</a>
         </div>
       </li>
     </ul>
     <ul class="navbar-nav mr-auto">
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <a class="nav-link dropdown-toggle text-warning" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           {{'NAVBAR.DEALERS' | translate}}
         </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" routerLink="/dealers/all-dealers">{{'ALL_DEALERS.HEADER' | translate}}</a>
+        <div class="dropdown-menu bg-dark" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item text-warning" (mouseenter)="add(item9)" (mouseleave)="remove(item9)" #item9 routerLink="/dealers/all-dealers">{{'ALL_DEALERS.HEADER' | translate}}</a>
         </div>
       </li>
     </ul>
     <ul class="navbar-nav mr-auto">
       <li class="nav-item">
-        <a class="nav-link" routerLink="/contact-us">
+        <a class="nav-link text-warning" routerLink="/contact-us">
           {{'NAVBAR.CONTACT' | translate}}
         </a>
       </li>
     </ul>
+    <ul class="navbar-nav mr-auto">
+      <label>
+        <li class="nav-link text-warning">
+          <!--{{ 'HOME.SELECT' | translate }}-->
+          <select #langSelect (change)="translate.use(langSelect.value)" class="custom-select">
+            <option *ngFor="let lang of translate.getLangs()" [value]="lang" [selected]="lang === translate.currentLang">{{ lang }}</option>
+          </select>
+        </li>
+      </label>
+    </ul>
+
 
 
   </div>
 </nav>
 <router-outlet></router-outlet>
+<app-footer></app-footer>
 
 
