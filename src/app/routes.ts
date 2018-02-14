@@ -87,7 +87,7 @@ export const ROUTES: Routes = [
   {path: 'management-profile', component: ManagementProfileComponent},
   {path: 'organisation-chart', component: OrganisationChartComponent},
   {path: 'vision', component: VisionComponent},
-  // {path: 'board-of-directors', component: BoardOfDirectorsComponent},
+  {path: 'board-of-directors', component: BoardOfDirectorsComponent},
   {path: 'not-found', component: NotFoundComponent},
   {path: 'home', component: HomeComponent},
   {path: '', pathMatch: 'full', redirectTo: '/home'},

@@ -977,5 +977,99 @@
       "DESIGNATION": "",
       "NAME": ""
     }
+  },
+  "BOARD_OF_DIRECTORS": {
+    "1": {
+      "NAME": "Sri K.Sheshadri(Shashi),",
+      "A": "S/o Sri D.Krishnappa,",
+      "B": "No. 282, AncheKempegowdana Doddi,",
+      "C": "Ramanagara,",
+      "D": "Phone: 9632223246"
+    },
+    "2": {
+      "NAME": "Smt. Komala",
+      "A": "Managing Director,",
+      "B": "The Mysore Electrical Industries Ltd.,",
+      "C": "P.B No: 2221, Tumkur road,",
+      "D": "Bengaluru – 560022.",
+      "E": "Phone: 23376644."
+    },
+    "3": {
+      "NAME": "Smt. Aditiraja,",
+      "A": "Director (Finance),",
+      "B": "K.P.T.C.L, Kaveri Bhavana,",
+      "C": "K.G.Road,",
+      "D": "Bengaluru – 560009.",
+      "E": "Phone: 9448381218"
+    },
+    "4": {
+      "NAME": "Sri S.Ramesh,",
+      "A": "Mallappanahalli Post,",
+      "B": "Hosadurga Taluk",
+      "C": "Chitradurga – 577 584.",
+      "D": "Phone: 9008558555."
+    },
+    "5": {
+      "NAME": "Sri Rajashekhar S. Saalimath,",
+      "A": "Haanagal Town,",
+      "B": "Haanagal Taluk,",
+      "C": "Haveri,",
+      "D": "Phone: 94801 92795."
+    },
+    "6": {
+      "NAME": "Sri D.S. Raghu,",
+      "A": "S/o D.M.Somanathayya,",
+      "B": "No. 124, 2nd cross,",
+      "C": "Karnataka Layout, Kurubarahalli,",
+      "D": "Bengaluru – 560 086",
+      "E": "Phone. 7760090085"
+    },
+    "7": {
+      "NAME": "Sri Chetan P.N.,",
+      "A": "S/o Sri Narayana Gowda,",
+      "B": "No. 1861,",
+      "C": "Ajam Khan Mosque road,",
+      "D": "K.R Mohalla,",
+      "E": "Mysuru – 570 004.",
+      "F": "Phone: 9845299444."
+    },
+    "8": {
+      "NAME": "Sri Aanjinappa,",
+      "A": "No. 84, 4th Main Road,",
+      "B": "1st cross,",
+      "C": "Near Ganesha temple, Kadirenahalli,",
+      "D": "New Colony, Banashakari 2nd stage,",
+      "E": "Bengaluru – 560 070.",
+      "F": "Phone: 94481 65213."
+    },
+    "9": {
+      "NAME": "Sri Krishna Gopala Krishna Desai,",
+      "A": "Akheti Village,Joyidaa Taluk",
+      "B": "Uttara Kannada-581453"
+    },
+    "10": {
+      "NAME": "Sri Afsal.S.M.,",
+      "A": "No. 1507, Mustafa Complex,",
+      "B": "Opposite Anand Theater,",
+      "C": "Devarajeevanahalli,",
+      "D": "Bengaluru – 560045.",
+      "E": "Phone: 99720 49997."
+    },
+    "11": {
+      "NAME": "Sri Siddappa Gowdanavar,",
+      "A": "Babanagar Post,",
+      "B": "Vijayapura,",
+      "C": "Pin-586114.",
+      "D": "Phone: 94487 52834."
+    },
+    "12": {
+      "NAME": "Sri Anantha Padmanabha,",
+      "A": "Director,",
+      "B": "S/o Sri S.B.Shankaranarayana Rao,",
+      "C": "No. 828, Clark Pet,",
+      "D": "K.R.Puram,",
+      "E": "Shivamogga – 577 202.",
+      "F": "Phone: 97414 48156"
+    }
   }
 }
