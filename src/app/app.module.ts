@@ -51,6 +51,7 @@ import { Ria15Component } from './components/ria/ria15/ria15.component';
 import { Ria16Component } from './components/ria/ria16/ria16.component';
 import { Ria181Component } from './components/ria/ria18-1/ria18-1.component';
 import { Ria182Component } from './components/ria/ria18-2/ria18-2.component';
+import { Ria183Component } from './components/ria/ria18-3/ria18-3.component';
 export function HttpLoaderFactory(http: HttpClient) {
   return new TranslateHttpLoader(http);
 }
@@ -100,7 +101,8 @@ export function HttpLoaderFactory(http: HttpClient) {
     Ria15Component,
     Ria16Component,
     Ria181Component,
-    Ria182Component
+    Ria182Component,
+    Ria183Component
   ],
   imports: [
     BrowserModule,

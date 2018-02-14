@@ -41,6 +41,7 @@ import {Ria15Component} from "./components/ria/ria15/ria15.component";
 import {Ria16Component} from "./components/ria/ria16/ria16.component";
 import {Ria181Component} from "./components/ria/ria18-1/ria18-1.component";
 import {Ria182Component} from "./components/ria/ria18-2/ria18-2.component";
+import {Ria183Component} from "./components/ria/ria18-3/ria18-3.component";
 
 export const ROUTES: Routes = [
   {path: 'ria', component: Ria2005Component,
@@ -62,8 +63,9 @@ export const ROUTES: Routes = [
       {path: 'ria14', component: Ria14Component},
       {path: 'ria15', component: Ria15Component},
       {path: 'ria16', component: Ria16Component},
-      {path: 'ria18-1', component: Ria181Component},
-      {path: 'ria18-2', component: Ria182Component}
+      //{path: 'ria18-1', component: Ria181Component},
+      //{path: 'ria18-2', component: Ria182Component},
+      {path: 'ria18-3', component: Ria183Component}
     ]
   },
   {path: 'spares/:spares', component: SparesComponent},
@@ -85,7 +87,7 @@ export const ROUTES: Routes = [
   {path: 'management-profile', component: ManagementProfileComponent},
   {path: 'organisation-chart', component: OrganisationChartComponent},
   {path: 'vision', component: VisionComponent},
-  {path: 'board-of-directors', component: BoardOfDirectorsComponent},
+  // {path: 'board-of-directors', component: BoardOfDirectorsComponent},
   {path: 'not-found', component: NotFoundComponent},
   {path: 'home', component: HomeComponent},
   {path: '', pathMatch: 'full', redirectTo: '/home'},

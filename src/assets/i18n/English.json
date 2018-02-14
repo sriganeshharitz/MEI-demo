@@ -76,8 +76,8 @@
     "DESCRIPTION_NORMAL2":"We are widening our Vendor Base, who are all ISO Certified, This is, to be Competitive in the Market and for Timely Delivery.",
     "DESCRIPTION_NORMAL3":"Our Quality policy is “To achieve Total customer satisfaction by continuous improvement in Product, Corrective and Preventive action on Customer complaints and regular Management Reviews”."
   },
-  "BOARD_OF_DIRECTORS": {
-    "HEADER": "Board of Directors",
+  "MANAGEMENT_PROFILE": {
+    "HEADER": "Management Profile",
     "MADAM_KOMALA": {
       "NAME": "Madam Komala",
       "QUALIFICATION": "M.Com.",
@@ -139,9 +139,6 @@
       "MOBILE": "9448073316",
       "OFFICE": "080 23576289"
     }
-  },
-  "MANAGEMENT_PROFILE": {
-    "HEADER": "Management Profile"
   },
   "ORGANISATION_CHART": {
     "HEADER": "Organisation Chart"
@@ -628,10 +625,7 @@
   "RIA1": {
     "TITLE": "RIA1",
     "HEADER": "Notice",
-    "DESCRIPTION": "The Manual as required under The Right to Information Act, 2005 under Section 4(b) of the Act is published with modifications / Amendments for the information of the Public and the same is appended below.",
-    "NAME": "Dr.Mahantesh.N.Karur",
-    "QUALIFICATION": "M.Com. Phd.",
-    "DESIGNATION": "Managing Director"
+    "DESCRIPTION": "The Manual as required under The Right to Information Act, 2005 under Section 4(b) of the Act is published with modifications / Amendments for the information of the Public and the same is appended below."
   },
   "RIA2": {
     "TITLE": "RIA2",
@@ -639,7 +633,7 @@
     "DESCRIPTION2": "The Activities of the company has been clearly bifurcated into various divisions. The duties and responsibilities of each divisions are appended below",
     "MARKETING": {
       "TITLE": "a. Marketing Division",
-      "DESCRIPTION1": "The division is headed by Sri M.L.Srinath, DEPUTY GENERAL MANAGER MARKETING I/C, Manager (Engg & R & D) who has served more then 35 year to company and technically well versed. Supported by Deputy Manager, Mr. Thimmanna.",
+      "DESCRIPTION1": "The division is headed by Sri Thimmanna, MANAGER, I/c who  is functional head of Marketing Division in addition to his duties of Engineering Department",
       "DESCRIPTION2": "The duties and responsibilities of the division in brief are as under:-",
       "A": "aa    : The appointment of dealers.",
       "B": "ab    : Submission of quotations to the customers in consultation with the pricing committee and the managing Director /Chairman & Managing Director wherever necessary.",
@@ -659,7 +653,7 @@
   "RIA3": {
     "TITLE": "RIA3",
     "HEADER": "b. Materials Division",
-    "DESCRIPTION1": "The materials Division is Headed by Deputy General Manager I/C Mr. Balachandra ,who has served more then 30 years to company, He is also I/C for maintenance and projects  and supported by Manager Material  Mr. Sharanappa.",
+    "DESCRIPTION1": "The materials Division is Headed by Sri.BALACHANDRA, DEPUTY GENERAL MANAGER (MATARIALS)I/C, ",
     "DESCRIPTION2": "The duties and responsibilities of the division in brief are as under:-",
     "A": "ba    : The Department is responsible for the procurement of quality raw materials and bought out items to the specification of required quantity as per the production programme drawn and on the basis of quarterly/bi- monthly /monthly programmer from the cheapest source observing the KTTP ACT for procurement in a more transparent manner keeping in view the inventory carrying cost and production losses due to lack of Materials in time.",
     "B": "bb    : Planning of Materials based on the quarterly / bi- monthly production programme.",
@@ -682,7 +676,7 @@
   "RIA4": {
     "TITLE": "RIA4",
     "HEADER": "c. Finance and Account Department",
-    "DESCRIPTION1": "The Finance Division is Headed by Consultant F&A Mr. N.S. Sridara and supported by Deputy Manager I/C Mr. Sriramaprasad.",
+    "DESCRIPTION1": "The Finance Division is Headed by Sri.N. Sriramprasad, Deputy Manager I/c  (Finance and Account).",
     "DESCRIPTION2": "The duties and responsibilities of the division in brief are as under:-",
     "A": "ca    : Evaluation of Costs of products, Components and Services.",
     "B": "cb    : Maintenance of Materials Stock Ledger.",
@@ -710,7 +704,7 @@
   "RIA5": {
     "TITLE": "RIA5",
     "HEADER": "d. Production Department",
-    "DESCRIPTION1": "The works Department is headed by Sri. S.E.Uddanna , Deputy General Manger (works) I/C and assisted by Mr. Huliyappa A.M.(Works).",
+    "DESCRIPTION1": "The works Department is headed by Sri. S.E.Uddanna , Deputy General Manger (works) I/C.",
     "DESCRIPTION2": "The duties and responsibilities of the division in brief are as under:-",
     "A": "da    : Preparation of quarterly / bimonthly / monthly production and dispatch programme in consultation with the production planning and marketing division.",
     "B": "db    : Production of product and spares as per the work orders raised by production Planning Division within the schedule date .Offering the products and spares to testing and inspection by the quality assurance dept.",
@@ -720,7 +714,7 @@
   "RIA6": {
     "TITLE": "RIA6",
     "HEADER": "e. Planning Department",
-    "DESCRIPTION1": "The Planning Department is Headed by Sri S.E.Uddanna, Deputy General Manger (Works) I/c and assisted by Sri.  Santosha H.C. Engineer.",
+    "DESCRIPTION1": "The Planning Department is Headed by Sri S.E.Uddanna, Deputy General Manger (Works) I/c.",
     "DESCRIPTION2": "The duties and responsibilities of the divisions in brief are as under:-",
     "DESCRIPTION3": "The Inspection department is headed by Sri. V.Manohar, Manger ( Quality Assurance, Tool Room & Testing).",
     "SUB_HEADER1": "ea. Planning Division",
@@ -740,16 +734,12 @@
     "M": "ea13  : Participation in pricing / purchase and Tender Scrutiny Committee.",
     "N": "eb1    : The Inspection of incoming goods other than Electrical goods as per the specification mentioned in the purchase order and segregation of materials into accepted and rejected lost.",
     "O": "eb2    : The Inspection of shop made components and assemblies as mentioned in the shop work order and drawing supplied and segregation of materials into accepted and rejected lots.",
-    "P": "eb3    : Stage shop floor inspection of components.",
-    "Q": "eb4    : Testing of incoming goods &final products of company.",
-    "R": "eb5    : Testing of final products before the customer wherever neccessary.",
-    "S": "eb6    : Clearance for dispatch.",
-    "T": "eb7    : Preparation of reports and forwarding the same to marketing division."
+    "P": "eb3    : Stage shop floor inspection of components."
   },
   "RIA7": {
     "TITLE": "RIA7",
     "HEADER": "f. Personnel & Administration Division",
-    "DESCRIPTION1": "Sri C.H.Mallikarjuna Manager (Personnel and Industrial Relation) who is working more than 25 years in the company, heads personnel and administration divisions.",
+    "DESCRIPTION1": "Sri.C.H.Mallikarjuna, Manager (Personnel and Industrial Relation), heads personnel and administration divisions",
     "DESCRIPTION2": "The duties and responsibilities of the division in brief are as under:-",
     "SUB_HEADER1": "fa. PERSONNEL DIVISION",
     "SUB_HEADER2": "fb. Administration",
@@ -776,7 +766,7 @@
   "RIA8": {
     "TITLE": "RIA8",
     "HEADER": "g. Research & Development",
-    "DESCRIPTION1": "Research & Development, division is headed by Sri M.L.Srinath, DEPUTY GENERAL MANAGER MARKETING I/C,Manager (Engg & R&D) Supported by Mr. Manjunath, Engineer.",
+    "DESCRIPTION1": "Research & Development, division is headed by Sri M.L.Srinath, Manager (Engineering,Research & Development).",
     "DESCRIPTION2": "The duties and responsibilities of the division in brief is as under:-",
     "A": "ga    : Design, Development and launching of new products.",
     "B": "gb    : Upgrdation of Technology by introduction of new products and existing products.",
@@ -784,19 +774,25 @@
     "D": "gd    : Type testing and renewal of Type test certificate periodically.",
     "E": "ge    : Support for productionising the newly developed product.",
     "F": "gf    : Providing drawing and Technical product list of new products to the user developments.",
-    "G": "gg    : Maintenance of records and records pertaining to Design and Development."
+    "G": "gg    : Maintenance of records and records pertaining to Design and Development.",
+    "H": "gh    : Manufacture, Repair & Maintenance of jigs, fixtures, Moulding & Press Tools"
   },
   "RIA9": {
     "TITLE": "RIA9",
     "HEADER": "h. ENGINERING DEPARTENT",
-    "DESCRIPTION1": "Engineering Divisions is headed by Sri. M.L.Srinath, DEPUTY GENERAL MANAGER MARKETING I/C,Engg & R&D(Manager) Supported by Mr. Girish, Foreman.",
+    "DESCRIPTION1": "Engineering Divisions is headed by Sri. Muchundi Asst Manager (Engineering). ",
     "DESCRIPTION2": "The duties and responsibilities of the division in brief are as under:-",
     "A": "ha    : Bill of materials for evaluating cost against tender.",
     "B": "hb    : Indenting electrical goods for procurement against various Order Acceptance.",
     "C": "hc    : Arrangement of drawing wiring diagram for the customers for their approval & for execution for work on the shop floor.",
-    "D": "hd    : Technical liaison with the other divisions.",
-    "E": "he     : Participation in technical discussions.",
-    "F": "hf    : Participation in the purchase , pricing and Tender Scrutiny Committee."
+    "D": "hd    : Providing drawing for in house use to the user departments against indents.",
+    "E": "he     : Technical liaison with the other divisions.",
+    "F": "hf    : Participation in technical discussions.",
+    "G": "hg    : Testing of incoming goods & final products of the Company.",
+    "H": "hh    : Testing of final products before the customer wherever necessary.",
+    "I": "hi    : Clearance for dispatch",
+    "J": "hj    : Preparation of reports and forwarding the same to the Marketing Division",
+    "K": "hk    : Participation in the purchase , pricing and Tender Scrutiny Committee."
   },
   "RIA10": {
     "TITLE": "RIA10",
@@ -864,15 +860,15 @@
     "C": "c)   Core Committee for recommendation on Departmental issues.",
     "D": "d)   Departmental Promotion Committee.",
     "E": "e)   Canteen Adhoc Committee.",
-    "F": "a)   Employees Provident Fund Trust.",
-    "G": "b)   Committee to examine the complaint on the sexual harassment on women at the work spot.",
-    "H": "c)   Suggestion Evaluation Committee.",
-    "I": "d)   Ayudha Pooj Committee.",
-    "J": "e)   Pricing Committee and purchase committee.",
-    "K": "f)   Wage negotiation committee.",
-    "L": "g)   Employees Medical Relief committee.",
-    "M": "h)   Tender Scrutiny committee. The committees and other bodies are not open to public and minutes of such meeting are not accessible for public .",
-    "N": "i)   Works Committee, shop council and Safety Committee.",
+    "F": "f)   Employees Provident Fund Trust.",
+    "G": "g)   Committee to examine the complaint on the sexual harassment on women at the work spot.",
+    "H": "h)   Suggestion Evaluation Committee.",
+    "I": "i)   Ayudha Pooj Committee.",
+    "J": "j)   Pricing Committee and purchase committee.",
+    "K": "k)   Wage negotiation committee.",
+    "L": "l)   Employees Medical Relief committee.",
+    "M": "m)   Tender Scrutiny committee. The committees and other bodies are not open to public and minutes of such meeting are not accessible for public .",
+    "N": "n)   Works Committee, shop council and Safety Committee.",
     "HEADER2": "viii) A DIRECTORY OF OFFECERS AND EMPLOYEES.",
     "DESCRIPTION2": "Refer Annexure-1 to the Manual"
   },
@@ -880,12 +876,12 @@
     "TITLE": "RIA15",
     "HEADER1": "ix) THE MONTHLY REMUNERATION RECEIVED BY EACH OF ITS OFFICERS AND EMPLOYEES INCLUDING THE SYSTEM OF COPENSATION PROVIDED IN ITS REGULATION.",
     "A": "a)   The monthly remuneration received by each of its officer and employees is as in Annexure-1 to the manual.",
-    "B": "b)   Following compensations are provide to the employees.",
-    "C": "c)   As per the various status.",
-    "D": "d)   Shoes and uniforms.",
-    "E": "e)   Medical Benefits.",
-    "F": "a)   Leave Encashment Benefits.",
-    "G": "b)   Leave Travel Allowance and other welfare benefits",
+    "B": "Following compensations are provide to the employees.",
+    "C": "a)   As per the various status.",
+    "D": "b)   Shoes and uniforms.",
+    "E": "c)   Medical Benefits.",
+    "F": "d)   Leave Encashment Benefits.",
+    "G": "e)   Leave Travel Allowance and other welfare benefits",
     "HEADER2": "x) THE BUDGET ALLOCATED TO EACH OF ITS AGENCY, INDICATING THE PARTICULAR OF ALL PlANS PROPSED EXPENDITURES AND REPORTS ON ISBURSEMENTS MADE",
     "H": "a)   Refer approved budget for the Year 2013-14(Annexure-3).",
     "HEADER3": "xi) THE MANNER OF EXECUTION OF SUBSIDY PROGRAMMERS INCLUDING THE AMOUNTS ALLOCATED AND DETAILS OF BENEFICIARIES OF SUCH PROGRAMMES",
@@ -898,27 +894,23 @@
     "I": "a)   Public may ask for all information except information mentioned under SI No:vi.",
     "J": "b)   Working Hours of the company: 8.00 am to 4.30 pm on all working days .",
     "K": "c)   Weekly Holiday : Sunday .",
-    "L": "d)   Library and Reading Room : Not permissible for public.",
-    "M": "h)   Tender Scrutiny committee. The committees and other bodies are not open to public and minutes of such meeting are not accessible for public .",
-    "N": "i)   Works Committee, shop council and Safety Committee."
+    "L": "d)   Library and Reading Room : Not permissible for public."
   },
   "RIA16": {
     "TITLE": "RIA16",
     "HEADER1": "xv) NAMES ,DESIGNATION AND OTHER PARTICULARS OF PUBLIC INFORMATION OFFICERS",
     "APPELLATE_KEY": "APPELLATE :",
-    "APPELLATE_VALUE": "Dr.Mahantesh.N.Karur (M.Com. Ph.D.)",
+    "APPELLATE_VALUE": "SMT. KOMALA",
     "AUTHORITY_KEY": "AUTHORITY :",
     "AUTHORITY_VALUE": "MANAGING DIRECTOR",
     "PHONE1_KEY": "TEL NO. : ",
-    "PHONE1_VALUE": "23376644 Mobile. 9448296630",
+    "PHONE1_VALUE": "23376644 Mobile. 9740253345",
     "INFO_KEY": "PUBLIIC INFORMATION :",
     "INFO_VALUE": "SRI.C.H.MALLIKARJUNA, MANAGER (PERSONNEL OFFICER AND INDUSTRIAL RELATIONS)",
     "PHONE2_KEY": "TEL:NO :",
     "PHONE2_VALUE": "23370062, Mobile :94483 76644",
     "SUB_HEADER": "ASSISTANT PUBLIC Information Officer",
-    "DESCRIPTION1": "1. Mr. M.L. Srinath, DEPUTY GENERAL MANAGER (Marketing) and F&A I/c.",
-    "DESCRIPTION2": "TEL.NO    23370140 Mobile : :9448376793.",
-    "DESCRIPTION3": "2. SRI. S.E. Uddanna, DEPUTY GENERAL MANAGER (Works) I/c.",
+    "DESCRIPTION3": "SRI. S.E. Uddanna, DEPUTY GENERAL MANAGER (Works) I/c.",
     "DESCRIPTION4": "TEL.NO    23475065 Mobile : :9449046506.",
     "HEADER2": "xvi) SUCH OTHER INFORMATION MAY BE PRESCRIBED AND THERE AFTER UPDATE THIS PUBLICATION EVERY YEAR",
     "OTHER_KEY": "a. Other information",
@@ -971,5 +963,19 @@
     "PHONE": "Phone: +91 080 - 23376851",
     "FAX": "Fax: +91 080-23371811",
     "EMAIL": "Email: mei1md@gmail.com"
+  },
+  "RIA17": {
+    "TITLE": "RIA17",
+    "HEADER": "Company Employee List",
+    "COL_SL": "SL NO.",
+    "COL_TOKEN": "TOKEN",
+    "COL_NAME": "EMPLOYEE’S NAME",
+    "COL_DESIGNATION": "DESIGNATION",
+    "0": {
+      "SL": "",
+      "TOKEN": "",
+      "DESIGNATION": "",
+      "NAME": ""
+    }
   }
 }
