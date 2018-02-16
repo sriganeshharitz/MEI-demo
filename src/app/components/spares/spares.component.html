@@ -7,8 +7,8 @@
     <div class="row">
       <div class="col-md-3 text-center" (mouseenter)="add(card)" (mouseleave)="remove(card)" #card *ngFor="let spare of spares">
         <img src="assets/images/spares/{{spare.id}}.jpg" alt="">
-        <p class="text-primary mb-0">{{spare.id}}</p>
-        <p class="text-primary">{{spare.name}}</p>
+        <p class="text-primary mb-0">{{name+'.'+spare.id+'.id' | translate}}</p>
+        <p class="text-primary">{{name+'.'+spare.id+'.name' | translate}}</p>
       </div>
     </div>
   </div>
