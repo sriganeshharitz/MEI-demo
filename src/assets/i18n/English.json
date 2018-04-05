@@ -102,7 +102,7 @@
     },
     "MALLIKARJUNA": {
       "NAME": "Sri. C.H.Mallikarjuna",
-      "DESIGNATION": "Manager (P&IR) & Manager Commercial I/c",
+      "DESIGNATION": "Manager (P&IR)",
       "MOBILE": "9448376644",
       "OFFICE": "080 23372697",
       "EMAIL": "mallikarjunach_hr@yahoo.com"
@@ -114,28 +114,28 @@
     },
     "SHARANAPPA": {
       "NAME": "Sri Sharanappa",
-      "DESIGNATION": "Manager (Materials)",
+      "DESIGNATION": "Manager (Q A)",
       "MOBILE": "94835569859",
       "OFFICE": "08023379506",
       "EMAIL": "meimatls9@gmail.com"
     },
     "THIMMANNA": {
       "NAME": "Sri. P.Thimmanna",
-      "DESIGNATION": "Dy.Manager (Marketing)",
-      "MOBILE": "9448374819",
+      "DESIGNATION": "Manager (Marketing)",
+      "MOBILE": "9481921708",
       "OFFICE": "080 23371811",
       "EMAIL": "meimktg@rediffmail.com"
     },
     "SRIDHARA": {
-      "NAME": "Sri. N.S Sridhara",
-      "DESIGNATION": "Finance & Accounts (Consultant)",
-      "MOBILE": "9448073316",
+      "NAME": "Sri. A.S Ijeri",
+      "DESIGNATION": "Dy General Manager (Repair section)",
+      "MOBILE": "9481286446",
       "OFFICE": "080 23576289",
       "EMAIL": "meicexdept@gmail.com"
     },
     "SRIRAMAPRASAD": {
-      "NAME": "N. Sriramaprasad",
-      "DESIGNATION": "Deputy Manager (Finance & Accounts)I/c, ERP Nodal Officer",
+      "NAME": "Sri N. Sriramaprasad",
+      "DESIGNATION": "Deputy Manager (Finance & Accounts)",
       "MOBILE": "9448073316",
       "OFFICE": "080 23576289"
     }
@@ -1185,7 +1185,7 @@
     }
   },
   "RIA1": {
-    "TITLE": "RTIA1",
+    "TITLE": "RTIA-41(b)",
     "HEADER": "Notice",
     "DESCRIPTION": "The Manual as required under The Right to Information Act, 2005 under Section 4(b) of the Act is published with modifications / Amendments for the information of the Public and the same is appended below."
   },
@@ -1195,7 +1195,7 @@
     "DESCRIPTION2": "The Activities of the company has been clearly bifurcated into various divisions. The duties and responsibilities of each divisions are appended below",
     "MARKETING": {
       "TITLE": "a. Marketing Division",
-      "DESCRIPTION1": "The division is headed by Sri Thimmanna, MANAGER, I/c who  is functional head of Marketing Division in addition to his duties of Engineering Department",
+      "DESCRIPTION1": "The division is headed by Sri Thimmanna, MANAGER, I/c who  is functional head of Marketing Division.",
       "DESCRIPTION2": "The duties and responsibilities of the division in brief are as under:-",
       "A": "aa    : The appointment of dealers.",
       "B": "ab    : Submission of quotations to the customers in consultation with the pricing committee and the managing Director /Chairman & Managing Director wherever necessary.",
@@ -1328,7 +1328,7 @@
   "RIA8": {
     "TITLE": "RTIA8",
     "HEADER": "g. Research & Development",
-    "DESCRIPTION1": "Research & Development, division is headed by Sri M.L.Srinath, Manager (Engineering,Research & Development).",
+    "DESCRIPTION1": "Research & Development, division is headed by Sri M.L.Srinath(Research & Development).",
     "DESCRIPTION2": "The duties and responsibilities of the division in brief is as under:-",
     "A": "ga    : Design, Development and launching of new products.",
     "B": "gb    : Upgrdation of Technology by introduction of new products and existing products.",
@@ -1342,7 +1342,7 @@
   "RIA9": {
     "TITLE": "RTIA9",
     "HEADER": "h. ENGINERING DEPARTENT",
-    "DESCRIPTION1": "Engineering Divisions is headed by Sri. Muchundi Asst Manager (Engineering). ",
+    "DESCRIPTION1": "Engineering Divisions is headed by Sri. B.D Muchundi Asst Manager (Engineering). ",
     "DESCRIPTION2": "The duties and responsibilities of the division in brief are as under:-",
     "A": "ha    : Bill of materials for evaluating cost against tender.",
     "B": "hb    : Indenting electrical goods for procurement against various Order Acceptance.",
@@ -1359,7 +1359,7 @@
   "RIA10": {
     "TITLE": "RTIA10",
     "HEADER": "i. QUALITY DEPARTMENT",
-    "DESCRIPTION1": "Quality Divisions is headed by Mr. V Manohar, Manager (Quality & Tool Room) who has served more then 30 years to company. He is supported by Ms. Anurag.",
+    "DESCRIPTION1": "Quality Divisions is headed by Mr. V Manohar, Manager (Quality & Tool Room) who has served more then 30 years to company.",
     "DESCRIPTION2": "The duties and responsibilities of the division in brief are as under:-",
     "A": "ia    : Development of Zigs and Fixtures for the regular and new productions activities.",
     "B": "ib    : Maintaining the measuring instrument list and its calibration monitoring.",
@@ -1459,7 +1459,7 @@
     "L": "d)   Library and Reading Room : Not permissible for public."
   },
   "RIA16": {
-    "TITLE": "RTIA16",
+    "TITLE": "RTIA-263(b)",
     "HEADER1": "xv) NAMES ,DESIGNATION AND OTHER PARTICULARS OF PUBLIC INFORMATION OFFICERS",
     "APPELLATE_KEY": "APPELLATE :",
     "APPELLATE_VALUE": "SMT. KOMALA",
@@ -1635,7 +1635,7 @@
     }
   },
   "RIA18-3": {
-    "TITLE": "RTIA18(3)",
+    "TITLE": "RTIA-41(a)",
     "HEADER1": "THE MYSORE ELECTRICAL INDUSTRIES LIMITED., BANGALORE",
     "HEADER2": "LIST OF FILES OF MAINTAINED IN ADMINISTRATION DEPARTMENT AS PER RTI ACT UNDER SEC 4(1)(A)",
     "SL": "Sl.no",

@@ -46,7 +46,8 @@ import {Ria183Component} from "./components/ria/ria18-3/ria18-3.component";
 export const ROUTES: Routes = [
   {path: 'ria', component: Ria2005Component,
     children: [
-      {path: 'home', component: RtiComponent},
+      // {path: 'home', component: RtiComponent},
+      {path: 'ria18-3', component: Ria183Component},
       {path: 'ria1', component: Ria1Component},
       {path: 'ria2', component: Ria2Component},
       {path: 'ria3', component: Ria3Component},
@@ -65,7 +66,7 @@ export const ROUTES: Routes = [
       {path: 'ria16', component: Ria16Component},
       //{path: 'ria18-1', component: Ria181Component},
       //{path: 'ria18-2', component: Ria182Component},
-      {path: 'ria18-3', component: Ria183Component}
+
     ]
   },
   {path: 'spares/:spares', component: SparesComponent},
