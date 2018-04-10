@@ -1164,7 +1164,7 @@
       "PHONE": "Ph: 080-23376851 (6 LINES), 080-23376641 (3 LINES),",
       "FAX": "Fax : 080-23371811",
       "EMAIL": "Email : meimktg@rediffmail.com , Mallikarjunach_hr@yahoo.com",
-      "WEBSITE": "Website : www.meiswitchgears.org"
+      "WEBSITE": "Website : www.meikarnataka.com"
     },
     "FUNCTION": {
       "TITLE": "2.Function",
@@ -1185,7 +1185,7 @@
     }
   },
   "RIA1": {
-    "TITLE": "RTIA-41(b)",
+    "TITLE": "RTIA-4(1)(b)",
     "HEADER": "Notice",
     "DESCRIPTION": "The Manual as required under The Right to Information Act, 2005 under Section 4(b) of the Act is published with modifications / Amendments for the information of the Public and the same is appended below."
   },
@@ -1451,7 +1451,7 @@
     "HEADER4": "xii) PARTICULRS OF RECIPIENTS OF CONCESSIONS, PERMITS OF AUTORISATION GRANTED BY IT",
     "DESCRIPTION2": "No concessions permits or authorisation granted by the company as on date except authorization to sell the products of the company, to participate in technical discussion etc as a dealer or agent of the company",
     "HEADER5": "xiii) DETAILS IN RESPECT OF INFORMATION, AVAILABLE TO OR HELD BY IT TEDUCED IN AN ELECTRONIC FORM",
-    "DESCRIPTION3": "Website : www.meiswitchgears.org",
+    "DESCRIPTION3": "Website : www.meikarnataka.com",
     "HEADER6": "xiv) THE PARTICULARS OF FACILITIES AVAILABLE TO CITIZENS FOR OBTAINING INFORMATION INCLUDING THE WORKING HOURS OF A LIBRARY OR READING ROOM IF MAINTAINED FOR PUBLIC USE.",
     "I": "a)   Public may ask for all information except information mentioned under SI No:vi.",
     "J": "b)   Working Hours of the company: 8.00 am to 4.30 pm on all working days .",
@@ -1459,26 +1459,29 @@
     "L": "d)   Library and Reading Room : Not permissible for public."
   },
   "RIA16": {
-    "TITLE": "RTIA-263(b)",
-    "HEADER1": "xv) NAMES ,DESIGNATION AND OTHER PARTICULARS OF PUBLIC INFORMATION OFFICERS",
-    "APPELLATE_KEY": "APPELLATE :",
-    "APPELLATE_VALUE": "SMT. KOMALA",
-    "AUTHORITY_KEY": "AUTHORITY :",
-    "AUTHORITY_VALUE": "MANAGING DIRECTOR",
-    "PHONE1_KEY": "TEL NO. : ",
-    "PHONE1_VALUE": "23376644 Mobile. 9740253345",
-    "INFO_KEY": "PUBLIIC INFORMATION :",
-    "INFO_VALUE": "SRI.C.H.MALLIKARJUNA, MANAGER (PERSONNEL OFFICER AND INDUSTRIAL RELATIONS)",
-    "PHONE2_KEY": "TEL:NO :",
-    "PHONE2_VALUE": "23370062, Mobile :94483 76644",
-    "SUB_HEADER": "ASSISTANT PUBLIC Information Officer",
-    "DESCRIPTION3": "SRI. S.E. Uddanna, DEPUTY GENERAL MANAGER (Works) I/c.",
-    "DESCRIPTION4": "TEL.NO    23475065 Mobile : :9449046506.",
-    "HEADER2": "xvi) SUCH OTHER INFORMATION MAY BE PRESCRIBED AND THERE AFTER UPDATE THIS PUBLICATION EVERY YEAR",
-    "OTHER_KEY": "a. Other information",
-    "OTHER_VALUE": "Nil",
-    "MANUAL_KEY": "b. Updation of the Manual",
-    "MANUAL_VALUE": "Will be updated periodically during the month of April."
+    "TITLE": "RTIA-26(3)(b)",
+    "HEADER1": "The Name, Designation and other details of the public information officer of under RTI Act 26(3)(b)",
+		"NAME": "Name",
+		"DESIGNATION": "Name, Designation of the Public Information Officer",
+		"ADDRESS": "Address",
+		"PHONE": "Phone Number",
+		"EMAIL": "E-mail",
+		"NAME_AND_DESIGNATION": "Name and Designation of the details of the Appellate Authority and Phone Number",
+		"SUBJECT": "The subject dealt with",
+		"SL": "Sl. No.",
+		"1": {
+		"NAME": "Name",
+		"DESIGNATION": "Manager (Personnel & Information) & Public Information Officer",
+		"ADDRESS": "The MEI Limited, Bangalore – 560022",
+		"PHONE": "080-23370062",
+		"EMAIL": "managerandirhar@gmail.com",
+		"NAME_AND_DESIGNATION": "Managing Director, MEI Limited, Bangalore 0 560 022 and The First Appellate Authority",
+		"SUBJECT": "To Receive all the letter in respect of all the departments of the company and the letter received by the inter departments will be despatched",
+		"SL": "1",
+		"EMAIL1": "mei1md@rediffmail.com",
+		"PHONE1": "08023370793",
+		"ADDRESS1": "MEI Limited PB No. 2221, Tumkur Road, Bangalore – 22."
+		}
   },
   "RIA18-1": {
     "TITLE": "RTIA18(1)",
@@ -1635,7 +1638,7 @@
     }
   },
   "RIA18-3": {
-    "TITLE": "RTIA-41(a)",
+    "TITLE": "RTIA-4(1)(a)",
     "HEADER1": "THE MYSORE ELECTRICAL INDUSTRIES LIMITED., BANGALORE",
     "HEADER2": "LIST OF FILES OF MAINTAINED IN ADMINISTRATION DEPARTMENT AS PER RTI ACT UNDER SEC 4(1)(A)",
     "SL": "Sl.no",
@@ -3458,5 +3461,965 @@
 		"SL": "361",
 		"SUBJECT": "Claim details"
 	}
-  }
+	},
+	"WORKERS": {
+		"SL": "SL",
+		"TOKEN": "TOKEN",
+		"NAME": "NAME",
+		"DESIGNATION": "DESIGNATION",
+		"PAY": "PAY SCALE",
+		"GROSS": "GROSS",
+		"1": {
+			"SL": "1",
+			"TOKEN": "7334",
+			"NAME": "RAVISHANKAR R P",
+			"DESIGNATION": "Clerk",
+			"PAY": "11400-26000",
+			"GROSS": "53103"
+		},
+		"2": {
+			"SL": "2",
+			"TOKEN": "7410",
+			"NAME": "SAMPANGI",
+			"DESIGNATION": "Sr. Driver",
+			"PAY": "11200-25300",
+			"GROSS": "55374"
+		},
+		"3": {
+			"SL": "3",
+			"TOKEN": "7413",
+			"NAME": "SIDDAIAH",
+			"DESIGNATION": "Supervisor",
+			"PAY": "11000-24600",
+			"GROSS": "51545"
+		},
+		"4": {
+			"SL": "4",
+			"TOKEN": "7425",
+			"NAME": "MOHAN M",
+			"DESIGNATION": "Sr. Driver",
+			"PAY": "10800-24000",
+			"GROSS": "43525"
+		},
+		"5": {
+			"SL": "5",
+			"TOKEN": "7427",
+			"NAME": "NAGARAJU H S",
+			"DESIGNATION": "Clerk",
+			"PAY": "10800-24000",
+			"GROSS": "51183"
+		},
+		"6": {
+			"SL": "6",
+			"TOKEN": "7447",
+			"NAME": "THIMMARAJU T",
+			"DESIGNATION": "Clerk",
+			"PAY": "10600-23400",
+			"GROSS": "52034"
+		},
+		"7": {
+			"SL": "7",
+			"TOKEN": "7448",
+			"NAME": "BHASKAR B S",
+			"DESIGNATION": "Clerk",
+			"PAY": "10400-22800",
+			"GROSS": "40736"
+		},
+		"8": {
+			"SL": "8",
+			"TOKEN": "7469",
+			"NAME": "SRINIDHI G S",
+			"DESIGNATION": "Clerk",
+			"PAY": "10400-22800",
+			"GROSS": "39156"
+		},
+		"9": {
+			"SL": "9",
+			"TOKEN": "7483",
+			"NAME": "VANI K",
+			"DESIGNATION": "Clerk",
+			"PAY": "10400-22800",
+			"GROSS": "38724"
+		},
+		"10": {
+			"SL": "10",
+			"TOKEN": "7492",
+			"NAME": "BALAJI SINGH N",
+			"DESIGNATION": "Assistant",
+			"PAY": "11200-25300",
+			"GROSS": "44345"
+		},
+		"11": {
+			"SL": "11",
+			"TOKEN": "7495",
+			"NAME": "VENKATARAMU H B",
+			"DESIGNATION": "Clerk",
+			"PAY": "10200-22200",
+			"GROSS": "39426"
+		},
+		"12": {
+			"SL": "12",
+			"TOKEN": "7496",
+			"NAME": "SAVITHA J",
+			"DESIGNATION": "Clerk",
+			"PAY": "10200-22200",
+			"GROSS": "37346"
+		},
+		"13": {
+			"SL": "13",
+			"TOKEN": "7497",
+			"NAME": "ASHA K",
+			"DESIGNATION": "Clerk",
+			"PAY": "10200-22200",
+			"GROSS": "37227"
+		},
+		"14": {
+			"SL": "14",
+			"TOKEN": "7507",
+			"NAME": "KESHAVA MURTHY C",
+			"DESIGNATION": "Asst. Foreman",
+			"PAY": "11200-25300",
+			"GROSS": "46309"
+		},
+		"15": {
+			"SL": "15",
+			"TOKEN": "7509",
+			"NAME": "SUNDAR PAUL D",
+			"DESIGNATION": "Clerk",
+			"PAY": "10800-24000",
+			"GROSS": "52167"
+		},
+		"16": {
+			"SL": "16",
+			"TOKEN": "7520",
+			"NAME": "MALATHI P",
+			"DESIGNATION": "Clerk",
+			"PAY": "10000-21600",
+			"GROSS": "37799"
+		},
+		"17": {
+			"SL": "17",
+			"TOKEN": "7533",
+			"NAME": "RAJEEVKUMAR L B",
+			"DESIGNATION": "Junior Draftman",
+			"PAY": "10600-23400",
+			"GROSS": "37965"
+		},
+		"18": {
+			"SL": "18",
+			"TOKEN": "7534",
+			"NAME": "GANGADHARASWAMY S M",
+			"DESIGNATION": "Foreman",
+			"PAY": "11200-25300",
+			"GROSS": "28467"
+		},
+		"19": {
+			"SL": "19",
+			"TOKEN": "7535",
+			"NAME": "SHATHAKUMAR S",
+			"DESIGNATION": "Foreman",
+			"PAY": "11200-25300",
+			"GROSS": "28134"
+		},
+		"20": {
+			"SL": "20",
+			"TOKEN": "7536",
+			"NAME": "ASHOKA KUMAR RAHUT",
+			"DESIGNATION": "Foreman",
+			"PAY": "11200-25300",
+			"GROSS": "28467"
+		},
+		"21": {
+			"SL": "21",
+			"TOKEN": "7537",
+			"NAME": "YASHASWINI",
+			"DESIGNATION": "Foreman",
+			"PAY": "11200-25300",
+			"GROSS": "24104"
+		},
+		"22": {
+			"SL": "22",
+			"TOKEN": "7538",
+			"NAME": "SUNIL N KYASANUR",
+			"DESIGNATION": "Foreman",
+			"PAY": "11200-25300",
+			"GROSS": "28004"
+		},
+		"23": {
+			"SL": "23",
+			"TOKEN": "7539",
+			"NAME": "GIRISH C K",
+			"DESIGNATION": "Foreman",
+			"PAY": "11200-25300",
+			"GROSS": "28154"
+		},
+		"24": {
+			"SL": "24",
+			"TOKEN": "7540",
+			"NAME": "RAMESH",
+			"DESIGNATION": "Inspector",
+			"PAY": "10000-21600",
+			"GROSS": "25845"
+		},
+		"25": {
+			"SL": "25",
+			"TOKEN": "7541",
+			"NAME": "RAJU",
+			"DESIGNATION": "Inspector",
+			"PAY": "10000-21600",
+			"GROSS": "26364"
+		},
+		"26": {
+			"SL": "26",
+			"TOKEN": "7543",
+			"NAME": "REKHA C",
+			"DESIGNATION": "Office boy",
+			"PAY": "9600-20500",
+			"GROSS": "24505"
+		},
+		"27": {
+			"SL": "27",
+			"TOKEN": "1873",
+			"NAME": "KASHINATH T N",
+			"DESIGNATION": "Chargehand",
+			"PAY": "11400-26000",
+			"GROSS": "58440"
+		},
+		"28": {
+			"SL": "28",
+			"TOKEN": "1880",
+			"NAME": "BABUNATHAN C P",
+			"DESIGNATION": "Grinder",
+			"PAY": "11400-26000",
+			"GROSS": "51859"
+		},
+		"29": {
+			"SL": "29",
+			"TOKEN": "1899",
+			"NAME": "VENKATESH P",
+			"DESIGNATION": "Radial Driller",
+			"PAY": "10600-23400",
+			"GROSS": "46056"
+		},
+		"30": {
+			"SL": "30",
+			"TOKEN": "1903",
+			"NAME": "GAVISIDDAIH",
+			"DESIGNATION": "Resin Casting Operator",
+			"PAY": "10600-23400",
+			"GROSS": "43602"
+		},
+		"31": {
+			"SL": "31",
+			"TOKEN": "1906",
+			"NAME": "DHANRAJ S",
+			"DESIGNATION": "Fitter",
+			"PAY": "10600-23400",
+			"GROSS": "48230"
+		},
+		"32": {
+			"SL": "32",
+			"TOKEN": "1907",
+			"NAME": "SATHISH R",
+			"DESIGNATION": "Fitter",
+			"PAY": "10400-22800",
+			"GROSS": "39217"
+		},
+		"33": {
+			"SL": "33",
+			"TOKEN": "1908",
+			"NAME": "MURTHY N",
+			"DESIGNATION": "Resin Casting Operator",
+			"PAY": "10600-23400",
+			"GROSS": "41866"
+		},
+		"34": {
+			"SL": "34",
+			"TOKEN": "1915",
+			"NAME": "VENKATESH N",
+			"DESIGNATION": "Fitter",
+			"PAY": "10600-23400",
+			"GROSS": "48220"
+		},
+		"35": {
+			"SL": "35",
+			"TOKEN": "1917",
+			"NAME": "JAYARAJ M",
+			"DESIGNATION": "Chargehand",
+			"PAY": "10600-23400",
+			"GROSS": "45114"
+		},
+		"36": {
+			"SL": "36",
+			"TOKEN": "1918",
+			"NAME": "ANAND G",
+			"DESIGNATION": "Turner",
+			"PAY": "10600-23400",
+			"GROSS": "41707"
+		},
+		"37": {
+			"SL": "37",
+			"TOKEN": "1919",
+			"NAME": "MUGUNDHAN A",
+			"DESIGNATION": "Chargehand",
+			"PAY": "10800-24000",
+			"GROSS": "49125"
+		},
+		"38": {
+			"SL": "38",
+			"TOKEN": "1921",
+			"NAME": "SUDHIR",
+			"DESIGNATION": "Resin Casting Operator",
+			"PAY": "10400-22800",
+			"GROSS": "43532"
+		},
+		"39": {
+			"SL": "39",
+			"TOKEN": "1924",
+			"NAME": "HARISHA G",
+			"DESIGNATION": "Packer",
+			"PAY": "10400-22800",
+			"GROSS": "29565"
+		},
+		"40": {
+			"SL": "40",
+			"TOKEN": "1925",
+			"NAME": "SURESH P",
+			"DESIGNATION": "Turner",
+			"PAY": "10600-23400",
+			"GROSS": "43248"
+		},
+		"41": {
+			"SL": "41",
+			"TOKEN": "1927",
+			"NAME": "GOVINDARAJU B",
+			"DESIGNATION": "Painter",
+			"PAY": "9600-20500",
+			"GROSS": "25931"
+		},
+		"42": {
+			"SL": "42",
+			"TOKEN": "1929",
+			"NAME": "SHARAVANAN R",
+			"DESIGNATION": "Turner",
+			"PAY": "10600-23400",
+			"GROSS": "40676"
+		},
+		"43": {
+			"SL": "43",
+			"TOKEN": "1930",
+			"NAME": "PUTTARAJU R",
+			"DESIGNATION": "Welder",
+			"PAY": "10200-22200",
+			"GROSS": "38985"
+		},
+		"44": {
+			"SL": "44",
+			"TOKEN": "1933",
+			"NAME": "SARAVANAN K",
+			"DESIGNATION": "Fitter",
+			"PAY": "10600-23400",
+			"GROSS": "21922"
+		},
+		"45": {
+			"SL": "45",
+			"TOKEN": "1935",
+			"NAME": "JAYARAMAIAH R",
+			"DESIGNATION": "Chargehand",
+			"PAY": "10600-23400",
+			"GROSS": "42771"
+		},
+		"46": {
+			"SL": "46",
+			"TOKEN": "1936",
+			"NAME": "BABU R",
+			"DESIGNATION": "Turner",
+			"PAY": "10600-23400",
+			"GROSS": "44770"
+		},
+		"47": {
+			"SL": "47",
+			"TOKEN": "1937",
+			"NAME": "SHIVAKUMAR K C",
+			"DESIGNATION": "Chargehand",
+			"PAY": "10800-24000",
+			"GROSS": "41617"
+		},
+		"48": {
+			"SL": "48",
+			"TOKEN": "1939",
+			"NAME": "BALASUBRAMANI P",
+			"DESIGNATION": "Fitter",
+			"PAY": "10400-22800",
+			"GROSS": "40151"
+		},
+		"49": {
+			"SL": "49",
+			"TOKEN": "1940",
+			"NAME": "UMASHANKAR H C",
+			"DESIGNATION": "Mechanic",
+			"PAY": "11000-24600",
+			"GROSS": "41972"
+		},
+		"50": {
+			"SL": "50",
+			"TOKEN": "1941",
+			"NAME": " NAGARAJ D",
+			"DESIGNATION": "Mechanic",
+			"PAY": "10400-22800",
+			"GROSS": "38474"
+		},
+		"51": {
+			"SL": "51",
+			"TOKEN": "1942",
+			"NAME": " CHANDRASHEKAR M",
+			"DESIGNATION": "Fitter",
+			"PAY": "10400-22800",
+			"GROSS": "39179"
+		},
+		"52": {
+			"SL": "52",
+			"TOKEN": "1943",
+			"NAME": "HARIPRASAD B",
+			"DESIGNATION": "Chargehand",
+			"PAY": "10600-23400",
+			"GROSS": "42335"
+		},
+		"53": {
+			"SL": "53",
+			"TOKEN": "1945",
+			"NAME": "HARIPRASAD S",
+			"DESIGNATION": "Chargehand",
+			"PAY": "10800-24000",
+			"GROSS": "41569"
+		},
+		"54": {
+			"SL": "54",
+			"TOKEN": "1951",
+			"NAME": "RADHAKRISHNA V",
+			"DESIGNATION": "GM Operator",
+			"PAY": "10600-23400",
+			"GROSS": "39498"
+		},
+		"55": {
+			"SL": "55",
+			"TOKEN": "1952",
+			"NAME": "RAMACHANDRA G",
+			"DESIGNATION": "Chargehand",
+			"PAY": "10600-23400",
+			"GROSS": "39432"
+		},
+		"56": {
+			"SL": "56",
+			"TOKEN": "1953",
+			"NAME": "RIYAZ PASHA ",
+			"DESIGNATION": "Fitter",
+			"PAY": "10600-23400",
+			"GROSS": "39011"
+		},
+		"57": {
+			"SL": "57",
+			"TOKEN": "1958",
+			"NAME": "GURURAJA K H",
+			"DESIGNATION": "Electro Plater",
+			"PAY": "10600-23400",
+			"GROSS": "51822"
+		},
+		"58": {
+			"SL": "58",
+			"TOKEN": "1961",
+			"NAME": "KRISHNAPPA L",
+			"DESIGNATION": "Electro Plater",
+			"PAY": "10800-24000",
+			"GROSS": "51733"
+		},
+		"59": {
+			"SL": "59",
+			"TOKEN": "1962",
+			"NAME": "SUBHASH B",
+			"DESIGNATION": "Press Operator",
+			"PAY": "10600-23400",
+			"GROSS": "39125"
+		},
+		"60": {
+			"SL": "60",
+			"TOKEN": "1964",
+			"NAME": " UMAKANTH V",
+			"DESIGNATION": "GM Operator",
+			"PAY": "10400-22800",
+			"GROSS": "34329"
+		},
+		"61": {
+			"SL": "61",
+			"TOKEN": "1965",
+			"NAME": "SURESH R",
+			"DESIGNATION": "GM Operator",
+			"PAY": "10400-22800",
+			"GROSS": "33729"
+		},
+		"62": {
+			"SL": "62",
+			"TOKEN": "1971",
+			"NAME": "BABU S",
+			"DESIGNATION": "Press Operator",
+			"PAY": "10400-22800",
+			"GROSS": "38091"
+		},
+		"63": {
+			"SL": "63",
+			"TOKEN": "1975",
+			"NAME": "MAUDALAGIRI P U",
+			"DESIGNATION": "fitter",
+			"PAY": "10600-23400",
+			"GROSS": "51371"
+		},
+		"64": {
+			"SL": "64",
+			"TOKEN": "1976",
+			"NAME": "JAGADEESHA ",
+			"DESIGNATION": "Chargehand",
+			"PAY": "11000-24600",
+			"GROSS": "52626"
+		},
+		"65": {
+			"SL": "65",
+			"TOKEN": "1977",
+			"NAME": "KITTA",
+			"DESIGNATION": "Fitter",
+			"PAY": "10800-24000",
+			"GROSS": "50377"
+		},
+		"66": {
+			"SL": "66",
+			"TOKEN": "1979",
+			"NAME": "RAMESH R",
+			"DESIGNATION": "Press Operator",
+			"PAY": "10400-22800",
+			"GROSS": "37815"
+		},
+		"67": {
+			"SL": "67",
+			"TOKEN": "1981",
+			"NAME": "SUDHAKAR T",
+			"DESIGNATION": "GM Operator",
+			"PAY": "10400-22800",
+			"GROSS": "37982"
+		},
+		"68": {
+			"SL": "68",
+			"TOKEN": "1983",
+			"NAME": "PRAKASH N",
+			"DESIGNATION": "helper",
+			"PAY": "10000-21600",
+			"GROSS": "29892"
+		},
+		"69": {
+			"SL": "69",
+			"TOKEN": "1990",
+			"NAME": "BORAIAH M C",
+			"DESIGNATION": "supplier",
+			"PAY": "10400-22800",
+			"GROSS": "49636"
+		},
+		"70": {
+			"SL": "70",
+			"TOKEN": "1991",
+			"NAME": "RAMAIAH",
+			"DESIGNATION": "Chargehand",
+			"PAY": "10600-23400",
+			"GROSS": "50726"
+		},
+		"71": {
+			"SL": "71",
+			"TOKEN": "1992",
+			"NAME": "JANARDHANM G",
+			"DESIGNATION": "supplier",
+			"PAY": "10400-22800",
+			"GROSS": "49094"
+		},
+		"72": {
+			"SL": "72",
+			"TOKEN": "1993",
+			"NAME": "SHIVANNA R S",
+			"DESIGNATION": "supplier",
+			"PAY": "10400-22800",
+			"GROSS": "47931"
+		},
+		"73": {
+			"SL": "73",
+			"TOKEN": "1997",
+			"NAME": "SENDHILRAJ J",
+			"DESIGNATION": "electrician",
+			"PAY": "9800-21000",
+			"GROSS": "34810"
+		},
+		"74": {
+			"SL": "74",
+			"TOKEN": "1998",
+			"NAME": "HULIYAANAYAK H R",
+			"DESIGNATION": "supplier",
+			"PAY": "9800-21000",
+			"GROSS": "26264"
+		},
+		"75": {
+			"SL": "75",
+			"TOKEN": "1999",
+			"NAME": "MANJULA H",
+			"DESIGNATION": "Cook",
+			"PAY": "10000-21600",
+			"GROSS": "26614"
+		},
+		"76": {
+			"SL": "76",
+			"TOKEN": "2000",
+			"NAME": "DORESWAMY R",
+			"DESIGNATION": "cook",
+			"PAY": "10000-21600",
+			"GROSS": "26614"
+		},
+		"77": {
+			"SL": "77",
+			"TOKEN": "2001",
+			"NAME": "THIMMAIAH Y R",
+			"DESIGNATION": "helper",
+			"PAY": "9600-20500",
+			"GROSS": "23936"
+		},
+		"78": {
+			"SL": "78",
+			"TOKEN": "2002",
+			"NAME": "SANNABORAIAH D B",
+			"DESIGNATION": "welder",
+			"PAY": "9800-21000",
+			"GROSS": "26164"
+		},
+		"79": {
+			"SL": "79",
+			"TOKEN": "2003",
+			"NAME": "PAPPANNA B S",
+			"DESIGNATION": "Welder",
+			"PAY": "9800-21000",
+			"GROSS": "26264"
+		},
+		"80": {
+			"SL": "80",
+			"TOKEN": "2004",
+			"NAME": "SHIVANAND",
+			"DESIGNATION": "supplier",
+			"PAY": "9800-21000",
+			"GROSS": "26264"
+		},
+		"81": {
+			"SL": "81",
+			"TOKEN": "2005",
+			"NAME": "RAJALAKSHMI G",
+			"DESIGNATION": "supplier",
+			"PAY": "9800-21000",
+			"GROSS": "25620"
+		},
+		"82": {
+			"SL": "82",
+			"TOKEN": "2006",
+			"NAME": "INDRABAI NADAGERI",
+			"DESIGNATION": "Helper",
+			"PAY": "9600-20500",
+			"GROSS": "25557"
+		},
+		"83": {
+			"SL": "83",
+			"TOKEN": "2007",
+			"NAME": "RAMESH MALLAPPA POOJARA",
+			"DESIGNATION": "supplier",
+			"PAY": "9800-21000",
+			"GROSS": "26264"
+		},
+		"84": {
+			"SL": "84",
+			"TOKEN": "2008",
+			"NAME": "GOWRI BAI",
+			"DESIGNATION": "Helper",
+			"PAY": "9600-20500",
+			"GROSS": "25260"
+		},
+		"85": {
+			"SL": "85",
+			"TOKEN": "2009",
+			"NAME": "SELVI K",
+			"DESIGNATION": "Helper",
+			"PAY": "9600-20500",
+			"GROSS": "25061"
+		},
+		"86": {
+			"SL": "86",
+			"TOKEN": "2010",
+			"NAME": "LOKESH G",
+			"DESIGNATION": "Helper",
+			"PAY": "9600-20500",
+			"GROSS": "24935"
+		},
+		"87": {
+			"SL": "87",
+			"TOKEN": "2011",
+			"NAME": "MAHALINGAIAH",
+			"DESIGNATION": "Helper",
+			"PAY": "9600-20500",
+			"GROSS": "16885"
+		},
+		"88": {
+			"SL": "88",
+			"TOKEN": "2012",
+			"NAME": "SOMSHEKAR M",
+			"DESIGNATION": "Helper",
+			"PAY": "9600-20500",
+			"GROSS": "25233"
+		},
+		"89": {
+			"SL": "89",
+			"TOKEN": "2013",
+			"NAME": "KUMAR M",
+			"DESIGNATION": "Helper",
+			"PAY": "9600-20500",
+			"GROSS": "25228"
+		},
+		"90": {
+			"SL": "90",
+			"TOKEN": "2014",
+			"NAME": "BHAGYAMMA S M",
+			"DESIGNATION": "Helper",
+			"PAY": "9600-20500",
+			"GROSS": "25313"
+		},
+		"91": {
+			"SL": "91",
+			"TOKEN": "2015",
+			"NAME": "KRISHNANAGENDRA M D",
+			"DESIGNATION": "Helper",
+			"PAY": "9600-20500",
+			"GROSS": "25313"
+		},
+		"92": {
+			"SL": "92",
+			"TOKEN": "2016",
+			"NAME": "NAGENDRAPRASAD S",
+			"DESIGNATION": "Helper",
+			"PAY": "9600-20500",
+			"GROSS": "24437"
+		},
+		"93": {
+			"SL": "93",
+			"TOKEN": "2017",
+			"NAME": "JAYALAKSHMI",
+			"DESIGNATION": "Helper",
+			"PAY": "9600-20500",
+			"GROSS": "25120"
+		},
+		"94": {
+			"SL": "94",
+			"TOKEN": "2018",
+			"NAME": "RAVIKUMAR N",
+			"DESIGNATION": "Helper",
+			"PAY": "9600-20500",
+			"GROSS": "24801"
+		},
+		"95": {
+			"SL": "95",
+			"TOKEN": "2019",
+			"NAME": "YOGESH KUMAR S",
+			"DESIGNATION": "Helper",
+			"PAY": "9600-20500",
+			"GROSS": "24636"
+		},
+		"96": {
+			"SL": "96",
+			"TOKEN": "2020",
+			"NAME": "SATHISH R ",
+			"DESIGNATION": "Helper",
+			"PAY": "9600-20500",
+			"GROSS": "23406"
+		},
+		"97": {
+			"SL": "97",
+			"TOKEN": "170",
+			"NAME": "ANDANEPPA S IJERI",
+			"DESIGNATION": "D.G.M",
+			"PAY": "30400-51300",
+			"GROSS": "103803"
+		},
+		"98": {
+			"SL": "98",
+			"TOKEN": "187",
+			"NAME": "R BALACHANDRA",
+			"DESIGNATION": "MANAGER",
+			"PAY": "26000-47700",
+			"GROSS": "82880"
+		},
+		"99": {
+			"SL": "99",
+			"TOKEN": "190",
+			"NAME": "S.E. UDDANNA",
+			"DESIGNATION": "MANAGER",
+			"PAY": "26000-47700",
+			"GROSS": "81332"
+		},
+		"100": {
+			"SL": "100",
+			"TOKEN": "219",
+			"NAME": "C.H. MALLIKARJUNA",
+			"DESIGNATION": "MANAGER",
+			"PAY": "26000-47700",
+			"GROSS": "72502"
+		},
+		"101": {
+			"SL": "101",
+			"TOKEN": "288",
+			"NAME": "C. RAVINDRA",
+			"DESIGNATION": "ASST. MANAGER",
+			"PAY": "20000-36300",
+			"GROSS": "66822"
+		},
+		"102": {
+			"SL": "102",
+			"TOKEN": "289",
+			"NAME": "N. SRIRAMAPRASAD",
+			"DESIGNATION": "ASST. MANAGER",
+			"PAY": "20000-36300",
+			"GROSS": "68998"
+		},
+		"103": {
+			"SL": "103",
+			"TOKEN": "323",
+			"NAME": "DS SAKKARAPPA",
+			"DESIGNATION": "SUPERINTENDENT",
+			"PAY": "16000-29600",
+			"GROSS": "54622"
+		},
+		"104": {
+			"SL": "104",
+			"TOKEN": "324",
+			"NAME": "B.S. VENKATESH MURTHY",
+			"DESIGNATION": "SUPERINTENDENT",
+			"PAY": "16000-29600",
+			"GROSS": "49773"
+		},
+		"105": {
+			"SL": "105",
+			"TOKEN": "327",
+			"NAME": "H.V. SURESH",
+			"DESIGNATION": "SUPERINTENDENT",
+			"PAY": "16000-29600",
+			"GROSS": "53131"
+		},
+		"106": {
+			"SL": "106",
+			"TOKEN": "328",
+			"NAME": "SHIVASHANKAR M",
+			"DESIGNATION": "SUPERINTENDENT",
+			"PAY": "16000-29600",
+			"GROSS": "42437"
+		},
+		"107": {
+			"SL": "107",
+			"TOKEN": "329",
+			"NAME": "P PRABHAKAR",
+			"DESIGNATION": "SUPERINTENDENT",
+			"PAY": "16000-29600",
+			"GROSS": "44803"
+		},
+		"108": {
+			"SL": "108",
+			"TOKEN": "332",
+			"NAME": "B.S. REKHA",
+			"DESIGNATION": "ENGINEER",
+			"PAY": "17650-32000",
+			"GROSS": "40044"
+		},
+		"109": {
+			"SL": "109",
+			"TOKEN": "333",
+			"NAME": "M.S. SRIDHARA",
+			"DESIGNATION": "ENGINEER",
+			"PAY": "17650-32000",
+			"GROSS": "41110"
+		},
+		"110": {
+			"SL": "110",
+			"TOKEN": "334",
+			"NAME": "H.C. SANTHOSHA",
+			"DESIGNATION": "ENGINEER",
+			"PAY": "17650-32000",
+			"GROSS": "40210"
+		},
+		"111": {
+			"SL": "111",
+			"TOKEN": "335",
+			"NAME": "S.V.ANURAG",
+			"DESIGNATION": "ENGINEER",
+			"PAY": "17650-32000",
+			"GROSS": "39777"
+		},
+		"112": {
+			"SL": "112",
+			"TOKEN": "336",
+			"NAME": "R. KEERTHI",
+			"DESIGNATION": "ENGINEER",
+			"PAY": "17650-32000",
+			"GROSS": "40127"
+		},
+		"113": {
+			"SL": "113",
+			"TOKEN": "338",
+			"NAME": "HULIYAPPA",
+			"DESIGNATION": "ASST. MANAGER",
+			"PAY": "20000-36300",
+			"GROSS": "46717"
+		},
+		"114": {
+			"SL": "114",
+			"TOKEN": "339",
+			"NAME": "BABA SAHEB MUCHANDI",
+			"DESIGNATION": "ASST. MANAGER",
+			"PAY": "20000-36300",
+			"GROSS": "45667"
+		},
+		"115": {
+			"SL": "115",
+			"TOKEN": "340",
+			"NAME": "P THIMMANNA",
+			"DESIGNATION": "DY. MANAGER",
+			"PAY": "22800-43200",
+			"GROSS": "50407"
+		},
+		"116": {
+			"SL": "116",
+			"TOKEN": "342",
+			"NAME": "SS MANJUNATH",
+			"DESIGNATION": "ENGINEER",
+			"PAY": "17650-32000",
+			"GROSS": "42160"
+		},
+		"117": {
+			"SL": "117",
+			"TOKEN": "343",
+			"NAME": "SHARANAPPA",
+			"DESIGNATION": "MANAGER",
+			"PAY": "26000-47700",
+			"GROSS": "58479"
+		},
+		"118": {
+			"SL": "118",
+			"TOKEN": "345",
+			"NAME": "M.H. BASAVARAJA",
+			"DESIGNATION": "MANAGER",
+			"PAY": "26000-47700",
+			"GROSS": "52561"
+		},
+		"119": {
+			"SL": "119",
+			"TOKEN": "346",
+			"NAME": "SUDHIRA",
+			"DESIGNATION": "MANAGER",
+			"PAY": "26000-47700",
+			"GROSS": "52728"
+		}
+	}
 }

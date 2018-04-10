@@ -27,7 +27,7 @@
           <a class="dropdown-item text-warning" (mouseenter)="add(itemd)" (mouseleave)="remove(itemd)" #itemd routerLink="/management-profile">{{'ABOUT.MANAGEMENT_PROFILE' | translate}}</a>
           <a class="dropdown-item text-warning" (mouseenter)="add(iteme)" (mouseleave)="remove(iteme)" #iteme routerLink="/organisation-chart">{{'ABOUT.ORGANISATION_CHART' | translate}}</a>
           <a class="dropdown-item text-warning" (mouseenter)="add(itemf)" (mouseleave)="remove(itemf)" #itemf routerLink="/manufacturing-process">{{'ABOUT.MANUFACTURING_PROCESS' | translate}}</a>
-          <a class="dropdown-item text-warning" (mouseenter)="add(itemx)" (mouseleave)="remove(itemx)" #itemx routerLink="/ria">{{'ABOUT.RIA' | translate}}</a>
+          <!-- <a class="dropdown-item text-warning" (mouseenter)="add(itemx)" (mouseleave)="remove(itemx)" #itemx routerLink="/ria">{{'ABOUT.RIA' | translate}}</a> -->
           <a class="dropdown-item text-warning" (mouseenter)="add(itemg)" (mouseleave)="remove(itemg)" #itemg routerLink="/budget">{{'ABOUT.BUDGET' | translate}}</a>
         </div>
       </li>
@@ -108,6 +108,14 @@
         <div class="dropdown-menu bg-dark" aria-labelledby="navbarDropdown">
           <a class="dropdown-item text-warning" (mouseenter)="add(item9)" (mouseleave)="remove(item9)" #item9 routerLink="/dealers/all-dealers">{{'ALL_DEALERS.HEADER' | translate}}</a>
         </div>
+      </li>
+    </ul>
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+            <a class="nav-link text-warning" routerLink="/ria">
+              <img src="assets/images/rti.jpg" alt="">
+              {{'ABOUT.RIA' | translate}}
+            </a>
       </li>
     </ul>
     <ul class="navbar-nav mr-auto">
