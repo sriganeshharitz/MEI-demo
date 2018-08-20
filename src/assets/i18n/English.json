@@ -474,6 +474,12 @@
       "FAX": "080-23401982",
       "EMAIL": "cmsepl@gmail.com"
     },
+    "INDIA_MAV": {
+      "TITLE": "Throughout India",
+      "COMPANY": "M/s Maverick Management Facility Management Pvt Ltd.,",
+      "ADDRESS": "No.19& 20,Lakshmi Sadan, 1st Floor, 2nd Cross, Nehru Nagar, Sheshadripuram, Bengaluru-56020",
+      "PHONE": "Mr. Nagaraj Managing Director, 9538893337"
+    },
     "KARNATAKA": {
       "TITLE": "Karnataka",
       "COMPANY": "CANARA ELECTRICALS & ENTERPRISES",
@@ -1547,11 +1553,11 @@
   },
   "BOARD_OF_DIRECTORS": {
     "1": {
-      "NAME": "Sri K.Sheshadri(Shashi),",
-      "A": "S/o Sri D.Krishnappa,",
-      "B": "No. 282, AncheKempegowdana Doddi,",
-      "C": "Ramanagara,",
-      "D": "Phone: 9632223246"
+      "NAME": "Shri. K.J.George",
+      "A": "Hon’ble Minister for Large & Medium Scale Industries,",
+      "B": "Sugar, IT & BT,",
+      "C": "Science & Technology,",
+      "D": "Government of Karnataka"
     },
     "2": {
       "NAME": "Smt. Komala",
@@ -1570,73 +1576,41 @@
       "E": "Phone: 9448381218"
     },
     "4": {
-      "NAME": "Sri S.Ramesh,",
-      "A": "Mallappanahalli Post,",
-      "B": "Hosadurga Taluk",
-      "C": "Chitradurga – 577 584.",
-      "D": "Phone: 9008558555."
+      "NAME": "Dr. Mahantesh.N.Karur,",
+      "A": "Managing Director,",
+      "B": "I/C"
     },
     "5": {
-      "NAME": "Sri Rajashekhar S. Saalimath,",
-      "A": "Haanagal Town,",
-      "B": "Haanagal Taluk,",
-      "C": "Haveri,",
-      "D": "Phone: 94801 92795."
+      "NAME": "Mr. Rajendra Cholan,",
+      "A": "IAS  – HESCOM,",
+      "B": "M.D"
     },
     "6": {
-      "NAME": "Sri D.S. Raghu,",
-      "A": "S/o D.M.Somanathayya,",
-      "B": "No. 124, 2nd cross,",
-      "C": "Karnataka Layout, Kurubarahalli,",
-      "D": "Bengaluru – 560 086",
-      "E": "Phone. 7760090085"
+      "NAME": "Smt. N.R  Jaganmatha",
+      "A": "Deputy Secretary  –",
+      "B": "Commerce  &  Industries  Department,",
+      "C": "Government of Karnataka"
     },
     "7": {
-      "NAME": "Sri Chetan P.N.,",
-      "A": "S/o Sri Narayana Gowda,",
-      "B": "No. 1861,",
-      "C": "Ajam Khan Mosque road,",
-      "D": "K.R Mohalla,",
-      "E": "Mysuru – 570 004.",
-      "F": "Phone: 9845299444."
+      "NAME": "Smt. Bharathi.  H.K,",
+      "A": "Director (Technical),",
+      "B": "MESCOM"
     },
     "8": {
-      "NAME": "Sri Aanjinappa,",
-      "A": "No. 84, 4th Main Road,",
-      "B": "1st cross,",
-      "C": "Near Ganesha temple, Kadirenahalli,",
-      "D": "New Colony, Banashakari 2nd stage,",
-      "E": "Bengaluru – 560 070.",
-      "F": "Phone: 94481 65213."
+      "NAME": "Mr. Venkatesh Kumar,",
+      "A": "Director (Technical),",
+      "B": "BESCOM"
     },
     "9": {
-      "NAME": "Sri Krishna Gopala Krishna Desai,",
-      "A": "Akheti Village,Joyidaa Taluk",
-      "B": "Uttara Kannada-581453"
+      "NAME": "Mr. N. Narasimhe Gowda,",
+      "A": "Director (Technical),",
+      "B": "CESC"
     },
     "10": {
-      "NAME": "Sri Afsal.S.M.,",
-      "A": "No. 1507, Mustafa Complex,",
-      "B": "Opposite Anand Theater,",
-      "C": "Devarajeevanahalli,",
-      "D": "Bengaluru – 560045.",
-      "E": "Phone: 99720 49997."
-    },
-    "11": {
-      "NAME": "Sri Siddappa Gowdanavar,",
-      "A": "Babanagar Post,",
-      "B": "Vijayapura,",
-      "C": "Pin-586114.",
-      "D": "Phone: 94487 52834."
-    },
-    "12": {
-      "NAME": "Sri Anantha Padmanabha,",
-      "A": "Director,",
-      "B": "S/o Sri S.B.Shankaranarayana Rao,",
-      "C": "No. 828, Clark Pet,",
-      "D": "K.R.Puram,",
-      "E": "Shivamogga – 577 202.",
-      "F": "Phone: 97414 48156"
+      "NAME": "Smt. L. Gayathri,",
+      "A": "Under Secretary –  Finance,",
+      "B": "Government of Karnataka",
+      "C": "Commerce and Industries Department,"
     }
   },
   "RIA18-3": {
